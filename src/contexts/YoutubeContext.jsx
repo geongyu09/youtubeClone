@@ -2,7 +2,7 @@ import { createContext, useContext } from "react";
 import { Youtube } from "../apis/Youtube";
 
 //mock data 여부 | true : mock , false : real data
-let fake = true;
+let fake = false;
 
 const youtubeContext = createContext();
 
