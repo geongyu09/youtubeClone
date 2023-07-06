@@ -43,7 +43,7 @@ export default function Watch({ search }) {
 							type="text/html"
 							width="100%"
 							height="520px"
-							src={`http://www.youtube.com/embed/${videoId}`}
+							src={`https://www.youtube.com/embed/${videoId}`}
 							frameBorder="0"
 							className="rounded-md"
 						></iframe>
