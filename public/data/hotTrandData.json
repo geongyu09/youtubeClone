@@ -1,0 +1,1624 @@
+{
+	"kind": "youtube#videoListResponse",
+	"etag": "iUCiD7GyVVj2jopOEvE8XAxwK4w",
+	"items": [
+		{
+			"kind": "youtube#video",
+			"etag": "MQOWpZpX7a1Gme-EwMBQHMoUXjA",
+			"id": "6FY5Nk9GpWs",
+			"snippet": {
+				"publishedAt": "2023-06-15T17:00:04Z",
+				"channelId": "UCR9Gcq0CMm6YgTzsDxAxjOQ",
+				"title": "ㅁㅁㅁㅁㅁㅁㅁ",
+				"description": "Hermitcraft 9: Episode 39 - THE BIG CLEAN Grian is back on hermitcraft, becomes mumbos friend and makes HUGE progress.\n\n \n#minecraft #hermitcraft",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/6FY5Nk9GpWs/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/6FY5Nk9GpWs/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/6FY5Nk9GpWs/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/6FY5Nk9GpWs/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/6FY5Nk9GpWs/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Grian",
+				"tags": [
+					"Minecraft",
+					"Grian",
+					"building",
+					"grian",
+					"mincraft",
+					"yt:quality=high",
+					"minecraft",
+					"hermitcraft",
+					"episode 39"
+				],
+				"categoryId": "20",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Hermitcraft 9: Episode 39 - THE BIG CLEAN",
+					"description": "Hermitcraft 9: Episode 39 - THE BIG CLEAN Grian is back on hermitcraft, becomes mumbos friend and makes HUGE progress.\n\n \n#minecraft #hermitcraft"
+				},
+				"defaultAudioLanguage": "en-GB"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "nbWYEKbqZ9PP97G4HQE0vQ24hXU",
+			"id": "4pZ6ZFvuNtU",
+			"snippet": {
+				"publishedAt": "2023-06-14T23:00:02Z",
+				"channelId": "UCzegztfNzXt-YRxeJlgF0fA",
+				"title": "#DinnerWithTheDon featuring K Hood @Rollitupk",
+				"description": "#DinnerWithTheDon featuring K Hood  @Rollitupk\n\nTodays Menu -\nJerk Chicken\nRice\nBroccoli\n\nLeave Comments for new menu ideas!!\n\nInstagram - \nAri -  https://www.instagram.com/therealkylesister/\nRemedy by Ari - https://www.instagram.com/remedybyari/",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/4pZ6ZFvuNtU/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/4pZ6ZFvuNtU/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/4pZ6ZFvuNtU/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/4pZ6ZFvuNtU/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/4pZ6ZFvuNtU/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "TheRealKyleSister",
+				"categoryId": "1",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "#DinnerWithTheDon featuring K Hood @Rollitupk",
+					"description": "#DinnerWithTheDon featuring K Hood  @Rollitupk\n\nTodays Menu -\nJerk Chicken\nRice\nBroccoli\n\nLeave Comments for new menu ideas!!\n\nInstagram - \nAri -  https://www.instagram.com/therealkylesister/\nRemedy by Ari - https://www.instagram.com/remedybyari/"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "A-cDLlPhVLKSoB4VFZpHrEokaAE",
+			"id": "UQQBdxnZaZ8",
+			"snippet": {
+				"publishedAt": "2023-06-14T23:07:08Z",
+				"channelId": "UCO_RC-EuZVTkxm5e8ek1zvA",
+				"title": "I Threw A Pool Party At The AMP HOUSE",
+				"description": "I Threw A Pool Party At The AMP HOUSE\nFollow me on Instagram: Duke_Dennis\nFollow me on Twitter: Imdukedennis",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/UQQBdxnZaZ8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/UQQBdxnZaZ8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/UQQBdxnZaZ8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/UQQBdxnZaZ8/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/UQQBdxnZaZ8/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Duke Dennis",
+				"tags": [
+					"duke dennis",
+					"deeblock duke",
+					"amp",
+					"amp pool party",
+					"duke dennis and kai cenat pool party",
+					"deeblock"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "I Threw A Pool Party At The AMP HOUSE",
+					"description": "I Threw A Pool Party At The AMP HOUSE\nFollow me on Instagram: Duke_Dennis\nFollow me on Twitter: Imdukedennis"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "zEM3EGxHZaOm-xlIP22yy0_2MnM",
+			"id": "AqG0GF_LA0Q",
+			"snippet": {
+				"publishedAt": "2023-06-15T16:00:13Z",
+				"channelId": "UCZuPJZ2kGFdlbQu1qotZaHw",
+				"title": "KAROL G - WATATI (feat. Aldo Ranks) (From Barbie The Album) [Official Music Video]",
+				"description": "Download/Stream: https://barbiethealbum.lnk.to/KarolGID\nBarbie The Movie and Barbie The Album available everywhere July 21st! \nPre-order/save Barbie The Album: https://barbiethealbum.lnk.to/BTA!DL\n \nSubscribe to my YouTube channel here: https://smarturl.it/SubscribeKarolG\n \nConnect with KAROL G on socials: \nInstagram: https://www.instagram.com/karolg/\nTwitter: https://twitter.com/karolg\nFacebook: https://www.facebook.com/KarolGOficial\nTikTok: https://www.tiktok.com/@karolg\n \nShop Karol G’s merchandise: https://karolg.lnk.to/OfficialMerch\n \n#KAROLG #WATATI #BarbieTheAlbum",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/AqG0GF_LA0Q/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/AqG0GF_LA0Q/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/AqG0GF_LA0Q/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/AqG0GF_LA0Q/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/AqG0GF_LA0Q/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "KAROL G",
+				"tags": [
+					"Karol g",
+					"reggaeton",
+					"reggaeton colombiano",
+					"tusa",
+					"tusa karol g",
+					"bad bunny",
+					"j balvin",
+					"barbie movie",
+					"provenza",
+					"bichota",
+					"karol g watati",
+					"watati",
+					"dua lipa barbie",
+					"pinkpantheress barbie"
+				],
+				"categoryId": "10",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "KAROL G - WATATI (feat. Aldo Ranks) (From Barbie The Album) [Official Music Video]",
+					"description": "Download/Stream: https://barbiethealbum.lnk.to/KarolGID\nBarbie The Movie and Barbie The Album available everywhere July 21st! \nPre-order/save Barbie The Album: https://barbiethealbum.lnk.to/BTA!DL\n \nSubscribe to my YouTube channel here: https://smarturl.it/SubscribeKarolG\n \nConnect with KAROL G on socials: \nInstagram: https://www.instagram.com/karolg/\nTwitter: https://twitter.com/karolg\nFacebook: https://www.facebook.com/KarolGOficial\nTikTok: https://www.tiktok.com/@karolg\n \nShop Karol G’s merchandise: https://karolg.lnk.to/OfficialMerch\n \n#KAROLG #WATATI #BarbieTheAlbum"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "eH5T0-l4v-UK1bnr0zqWnHArfu4",
+			"id": "itXcGea7DGo",
+			"snippet": {
+				"publishedAt": "2023-06-15T15:00:02Z",
+				"channelId": "UC0ZV6M2THA81QT9hrVWJG3A",
+				"title": "Apex Legends Dressed to Kill Collection Event Trailer",
+				"description": "Join the Dressed to Kill Collection Event and show the world you’re as dashing, driven, and deadly as any contract killer in the returning limited-time mode Armed and Dangerous –  shotguns and snipers only! \n\nHorizon's Heirloom – Gravity Maw – will be yours if you unlock all 24 limited-time themed cosmetics before the event ends. It's important to dress the part. Remember, in this event you're not just any killer: you're a professional.\n\nLearn More: http://x.ea.com/76774 \n\nApex Legends™ is a free-to-play* battle royale game where legendary characters battle for glory, fame, and fortune on the fringes of the Frontier. Play for free now on Xbox One, PlayStation 4, Nintendo Switch, and Origin for PC: http://x.ea.com/57366.\n\nCheck out our YouTube channel: http://x.ea.com/56710.\nFollow us on Twitter: https://twitter.com/playapex.\nFollow us on Instagram: https://www.instagram.com/playapex/.\n\nProduction Company: Electronic Arts & Dark Burn Creative\nSound Design and Mix: Respawn Entertainment\nAll other categories: Electronic Arts & Respawn Entertainment\n\n*Applicable platform account and platform subscription (sold separately) may be required. Persistent internet connection and EA account required. Age restrictions apply. Includes in-game purchases.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/itXcGea7DGo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/itXcGea7DGo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/itXcGea7DGo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/itXcGea7DGo/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/itXcGea7DGo/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Apex Legends",
+				"tags": [
+					"apex legends",
+					"apex",
+					"dressed to kill collection event",
+					"dressed to kill event",
+					"horizon apex legends",
+					"apex heirloom",
+					"gravity maw",
+					"horizon gravity maw",
+					"horizon heirloom",
+					"electronic arts",
+					"ea",
+					"battle royale",
+					"battle royale game",
+					"apex trailer",
+					"apex legends trailer"
+				],
+				"categoryId": "20",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en",
+				"localized": {
+					"title": "Apex Legends Dressed to Kill Collection Event Trailer",
+					"description": "Join the Dressed to Kill Collection Event and show the world you’re as dashing, driven, and deadly as any contract killer in the returning limited-time mode Armed and Dangerous –  shotguns and snipers only! \n\nHorizon's Heirloom – Gravity Maw – will be yours if you unlock all 24 limited-time themed cosmetics before the event ends. It's important to dress the part. Remember, in this event you're not just any killer: you're a professional.\n\nLearn More: http://x.ea.com/76774 \n\nApex Legends™ is a free-to-play* battle royale game where legendary characters battle for glory, fame, and fortune on the fringes of the Frontier. Play for free now on Xbox One, PlayStation 4, Nintendo Switch, and Origin for PC: http://x.ea.com/57366.\n\nCheck out our YouTube channel: http://x.ea.com/56710.\nFollow us on Twitter: https://twitter.com/playapex.\nFollow us on Instagram: https://www.instagram.com/playapex/.\n\nProduction Company: Electronic Arts & Dark Burn Creative\nSound Design and Mix: Respawn Entertainment\nAll other categories: Electronic Arts & Respawn Entertainment\n\n*Applicable platform account and platform subscription (sold separately) may be required. Persistent internet connection and EA account required. Age restrictions apply. Includes in-game purchases."
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "B84J7NeDK7YGegMSlV7iojSQ5KI",
+			"id": "gAFgaI5D3Gc",
+			"snippet": {
+				"publishedAt": "2023-06-15T15:00:29Z",
+				"channelId": "UCCRb6nYKaT8tzLA8CwDdUtw",
+				"title": "MISAMO「Marshmallow」Music Video",
+				"description": "MISAMO JAPAN 1st MINI ALBUM『Masterpiece』2023.7.26 Release \n収録曲「Marshmallow」のMVが解禁！\n\n【いい音楽で一度、素晴らしいパフォーマンスで二度魅了させる】と言う意味を持つ、Asia No.1最強ガールズグループTWICEの日本人メンバーMINA、SANA、MOMOの3名からなるユニットMISAMOの初のMVが公開。\n\n「Marshmallow」は、チルなサウンドの中にヒップホップの要素が入った聴き心地の良い楽曲。「ギリギリ」で「キラキラ」な気持ちをマシュマロに例えた、等身大の歌詞は共感必須！\n\n\n「Marshmallow」先行配信中： https://MISAMO.lnk.to/Masterpiece\n\nMISAMO JAPAN 1st MINI ALBUM『Masterpiece』特設サイト： https://www.twicejapan.com/feature/Masterpiece\n\n#MISAMO #Marshmallow #Masterpiece\n--------------------------------\nTWICE OFFICIAL FANCLUB ONCE JAPAN\nhttp://oncejapan.com\n\nTWICE JAPAN OFFICIAL SITE\nhttp://www.twicejapan.com\n\nTWICE JAPAN OFFICIAL TWITTER\nhttps://twitter.com/jypetwice_japan\n\nTWICE JAPAN OFFICIAL INSTAGRAM\nhttps://www.instagram.com/jypetwice_japan/\n\nTWICE JAPAN OFFICIAL YouTube Channel\nhttps://www.youtube.com/c/twicejapanofficial\n\nTWICE JAPAN OFFICIAL TikTok\nhttps://vt.tiktok.com/ZSe2V935E/\n\n---------------------------------",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/gAFgaI5D3Gc/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/gAFgaI5D3Gc/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/gAFgaI5D3Gc/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/gAFgaI5D3Gc/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					}
+				},
+				"channelTitle": "TWICE JAPAN OFFICIAL YouTube Channel",
+				"tags": [
+					"TWICE",
+					"トゥワイス",
+					"ナヨン",
+					"ジョンヨン",
+					"モモ",
+					"サナ",
+					"ジヒョ",
+					"ミナ",
+					"ダヒョン",
+					"チェヨン",
+					"ツウィ",
+					"K-POP",
+					"MISAMO",
+					"ミサモ",
+					"マシュマロ",
+					"미사모",
+					"트와이스"
+				],
+				"categoryId": "10",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "ja",
+				"localized": {
+					"title": "MISAMO「Marshmallow」Music Video",
+					"description": "MISAMO JAPAN 1st MINI ALBUM『Masterpiece』2023.7.26 Release \n収録曲「Marshmallow」のMVが解禁！\n\n【いい音楽で一度、素晴らしいパフォーマンスで二度魅了させる】と言う意味を持つ、Asia No.1最強ガールズグループTWICEの日本人メンバーMINA、SANA、MOMOの3名からなるユニットMISAMOの初のMVが公開。\n\n「Marshmallow」は、チルなサウンドの中にヒップホップの要素が入った聴き心地の良い楽曲。「ギリギリ」で「キラキラ」な気持ちをマシュマロに例えた、等身大の歌詞は共感必須！\n\n\n「Marshmallow」先行配信中： https://MISAMO.lnk.to/Masterpiece\n\nMISAMO JAPAN 1st MINI ALBUM『Masterpiece』特設サイト： https://www.twicejapan.com/feature/Masterpiece\n\n#MISAMO #Marshmallow #Masterpiece\n--------------------------------\nTWICE OFFICIAL FANCLUB ONCE JAPAN\nhttp://oncejapan.com\n\nTWICE JAPAN OFFICIAL SITE\nhttp://www.twicejapan.com\n\nTWICE JAPAN OFFICIAL TWITTER\nhttps://twitter.com/jypetwice_japan\n\nTWICE JAPAN OFFICIAL INSTAGRAM\nhttps://www.instagram.com/jypetwice_japan/\n\nTWICE JAPAN OFFICIAL YouTube Channel\nhttps://www.youtube.com/c/twicejapanofficial\n\nTWICE JAPAN OFFICIAL TikTok\nhttps://vt.tiktok.com/ZSe2V935E/\n\n---------------------------------"
+				},
+				"defaultAudioLanguage": "ja"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "fVs6ts8Ls8EiBHrsZ8KYxe5_fnE",
+			"id": "peloHl5sb4I",
+			"snippet": {
+				"publishedAt": "2023-06-15T17:00:25Z",
+				"channelId": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+				"title": "Reviewing Japan.",
+				"description": "Shop my OFFICIAL merch collection: https://bit.ly/pdpstore\n\n#Partner #AD: Amaze",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/peloHl5sb4I/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/peloHl5sb4I/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/peloHl5sb4I/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/peloHl5sb4I/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/peloHl5sb4I/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "PewDiePie",
+				"tags": [
+					"pewdiepie",
+					"pewds",
+					"pewdie",
+					"japan",
+					"pewdiepie japan",
+					"japan review",
+					"japan tourism",
+					"japan travel",
+					"japan vlog",
+					"japan food",
+					"japan movie"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en-US",
+				"localized": {
+					"title": "Reviewing Japan.",
+					"description": "Shop my OFFICIAL merch collection: https://bit.ly/pdpstore\n\n#Partner #AD: Amaze"
+				},
+				"defaultAudioLanguage": "en-GB"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "g7ByrZAVtSP5aUvPqWHgn0lkxRU",
+			"id": "WP9JfCoLJec",
+			"snippet": {
+				"publishedAt": "2023-06-15T14:21:18Z",
+				"channelId": "UCpHCfDBZ3AJyuofz6DHy-ew",
+				"title": "I Cheated in a RAINBOW FRIENDS Mob Battle Competition!",
+				"description": "I Cheated in a RAINBOW FRIENDS Mob Battle Competition! (Minecraft)\n\nThis video Dash and Rainey play a Minecraft Mob Battle but they can spawn in Rainbow Friends, from Rainbow Friends chapter 1 and chapter 2. Dash is also cheating with a bunch of crazy pranks and traps, who will win the mob battle? Watch till the end to find out!\n\nThis video was inspired by Sunny Maizen Omziscool Omz Cash Nico Mongo Wudo Jamesy and Jeffy Minecraft\n\nSimilar Videos:\n\nFive Nights at Freddy vs The Most Secure House In Minecraft! by Dash\nhttps://youtu.be/9btcuUna3vk\n\nSKIBIDI TOILET ARMY VS The Most Secure House In Minecraft! by Jeffy Minecraft\nhttps://youtu.be/tatJvuGHqpM\n\nSunny's POOR to RICH Story In Minecraft! by Sunny\nhttps://youtu.be/Gm7LpcDBU90\n\nMinecraft BUT It Gets More REALISTIC! by Omz\nhttps://youtu.be/-BKAzPtnsE8\n\nUsing Google Translate 1000 Times to CHEAT in Build Challenge by Jamesy\nhttps://youtu.be/3gPQOStw2Uo\n\n#minecraft #minecraftmods #dash #dashandrainey",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/WP9JfCoLJec/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/WP9JfCoLJec/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/WP9JfCoLJec/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/WP9JfCoLJec/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/WP9JfCoLJec/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Dash",
+				"tags": [
+					"dash",
+					"rainey",
+					"minecraft",
+					"mob battle",
+					"minecraft mob battle",
+					"i cheated in a mob battle",
+					"I Cheated in a RAINBOW FRIENDS Mob Battle Competition!",
+					"carty",
+					"cash",
+					"nico",
+					"jeffy minecraft",
+					"jamesy"
+				],
+				"categoryId": "20",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "I Cheated in a RAINBOW FRIENDS Mob Battle Competition!",
+					"description": "I Cheated in a RAINBOW FRIENDS Mob Battle Competition! (Minecraft)\n\nThis video Dash and Rainey play a Minecraft Mob Battle but they can spawn in Rainbow Friends, from Rainbow Friends chapter 1 and chapter 2. Dash is also cheating with a bunch of crazy pranks and traps, who will win the mob battle? Watch till the end to find out!\n\nThis video was inspired by Sunny Maizen Omziscool Omz Cash Nico Mongo Wudo Jamesy and Jeffy Minecraft\n\nSimilar Videos:\n\nFive Nights at Freddy vs The Most Secure House In Minecraft! by Dash\nhttps://youtu.be/9btcuUna3vk\n\nSKIBIDI TOILET ARMY VS The Most Secure House In Minecraft! by Jeffy Minecraft\nhttps://youtu.be/tatJvuGHqpM\n\nSunny's POOR to RICH Story In Minecraft! by Sunny\nhttps://youtu.be/Gm7LpcDBU90\n\nMinecraft BUT It Gets More REALISTIC! by Omz\nhttps://youtu.be/-BKAzPtnsE8\n\nUsing Google Translate 1000 Times to CHEAT in Build Challenge by Jamesy\nhttps://youtu.be/3gPQOStw2Uo\n\n#minecraft #minecraftmods #dash #dashandrainey"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "0GxVccug_jzjIlR2bGUQIrENEX8",
+			"id": "2hI1IY782ig",
+			"snippet": {
+				"publishedAt": "2023-06-14T20:00:01Z",
+				"channelId": "UCvAhDxNNUDhi78tMXVGBUaQ",
+				"title": "Rebuilding A Flooded $2,000,000 McLaren P1 | Part 5",
+				"description": "Get PayPal Honey for FREE today►https://joinhoney.com/tavarish\nHoney finds coupons with one click. Thanks to Honey for sponsoring!\n--------------------------------------------------------------------\nThanks to V-Engineering►https://www.v-engineering.co.uk/\n\nFollow AZCycleParts on IG►https://www.instagram.com/azcycleparts/\nAZ Cycle Parts Ebay Store►https://www.ebay.com/str/azcycleparts\n--------------------------------------------------------------------\nSubscribe! ►http://bit.ly/2xZGtYN\nInstagram ►https://www.instagram.com/therealtavarish\nTavarish Shirts and Merch! ►http://bit.ly/shoptavarish\n--------------------------------------------------------------------\nThanks to the companies that support this channel!\nValvoline - The Original Motor Oil►https://www.valvoline.com/\nFind your dream car on AutoTempest!►https://bit.ly/foundonautotempest\n--------------------------------------------------------------------\nQuestions? Comments? Business inquiries? Email me at asktavarish@gmail.com\n--------------------------------------------------------------------\nMy Equipment: \nSimiron Epoxy Floor Coating►https://simiron.com\nBendpak Lifts and Equipment►https://bendpak.com\n--------------------------------------------------------------------\nMusic used in this video:\nNIVIRO - You [NCS Release]►https://www.youtube.com/watch?v=2Nv5juZKhKo\n\nMalik Bash - Ghosts [NCS Release]►https://www.youtube.com/watch?v=-9Z5Nhsm7GA",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/2hI1IY782ig/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/2hI1IY782ig/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/2hI1IY782ig/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/2hI1IY782ig/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/2hI1IY782ig/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Tavarish",
+				"tags": [
+					"aston martin",
+					"mercedes",
+					"amg",
+					"hyundai",
+					"bmw",
+					"lamborghini",
+					"ferrari",
+					"toyota",
+					"supra",
+					"mr2",
+					"sw20",
+					"3sgte",
+					"2jz",
+					"1jz",
+					"sl55",
+					"r230",
+					"r231",
+					"m113k",
+					"vantage",
+					"v8",
+					"v12",
+					"v10",
+					"v6",
+					"gallardo",
+					"turbo",
+					"cheap",
+					"budget",
+					"diy",
+					"wrench everyday",
+					"doug demuro",
+					"chrisfix",
+					"hoovies garage",
+					"tavarish",
+					"jalopnik",
+					"mightycarmods",
+					"motor trend",
+					"roadkill",
+					"hack",
+					"bendpak",
+					"tools",
+					"lift",
+					"4 post",
+					"2 post",
+					"quick jack",
+					"welding",
+					"how to",
+					"tutorial"
+				],
+				"categoryId": "2",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Rebuilding A Flooded $2,000,000 McLaren P1 | Part 5",
+					"description": "Get PayPal Honey for FREE today►https://joinhoney.com/tavarish\nHoney finds coupons with one click. Thanks to Honey for sponsoring!\n--------------------------------------------------------------------\nThanks to V-Engineering►https://www.v-engineering.co.uk/\n\nFollow AZCycleParts on IG►https://www.instagram.com/azcycleparts/\nAZ Cycle Parts Ebay Store►https://www.ebay.com/str/azcycleparts\n--------------------------------------------------------------------\nSubscribe! ►http://bit.ly/2xZGtYN\nInstagram ►https://www.instagram.com/therealtavarish\nTavarish Shirts and Merch! ►http://bit.ly/shoptavarish\n--------------------------------------------------------------------\nThanks to the companies that support this channel!\nValvoline - The Original Motor Oil►https://www.valvoline.com/\nFind your dream car on AutoTempest!►https://bit.ly/foundonautotempest\n--------------------------------------------------------------------\nQuestions? Comments? Business inquiries? Email me at asktavarish@gmail.com\n--------------------------------------------------------------------\nMy Equipment: \nSimiron Epoxy Floor Coating►https://simiron.com\nBendpak Lifts and Equipment►https://bendpak.com\n--------------------------------------------------------------------\nMusic used in this video:\nNIVIRO - You [NCS Release]►https://www.youtube.com/watch?v=2Nv5juZKhKo\n\nMalik Bash - Ghosts [NCS Release]►https://www.youtube.com/watch?v=-9Z5Nhsm7GA"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "Yk9onTqnfjy9PdTalhSRmnqZtSQ",
+			"id": "TxyL0XMaXP8",
+			"snippet": {
+				"publishedAt": "2023-06-15T00:58:34Z",
+				"channelId": "UCooTLkxcpnTNx6vfOovfBFA",
+				"title": "Netherlands vs. Croatia Highlights | UEFA Nations League Semifinals | FOX SOCCER",
+				"description": "The Netherlands and Croatia faced off in their semifinals match for the 2023 UEFA Nations League. The Netherlands took control of the pitch early on in the match. Donyell Malen found the net to give the Netherlands a 1-0 lead. Responding, Andrej Kramarić's penalty kick brought Croatia to a 1-1 tie with the Netherlands. Then, Croatia's Mario Pašalić scored to give them a 2-1 lead. Answering in stoppage time, Netherlands' Noa Lang evened the score against Croatia, 2-2. Bruno Petkovic scored a goal in extra time to give Croatia the 3-2 lead over the Netherlands. Lastly, Croatia's Luka Modrić scored on a penalty kick to secure the 4-2 victory over the Netherlands.\n\n#FOXSoccer #UEFA #Croatia\n\nSUBSCRIBE to get the latest FOX Soccer content: http://foxs.pt/SubscribeFOXSOCCER\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n►FOX Sports YouTube Channel: http://foxs.pt/SubscribeFOXSPORTS\n►PBC ON FOX’s YouTube Channel: https://foxs.pt/SubscribePBCONFOX\n►WWE ON FOX YouTube channel: https://foxs.pt/SubscribeWWEONFOX\n►NASCAR ON FOX YouTube channel: https://foxs.pt/SubscribeNASCARonFOX\n►CFB ON FOX YouTube channel: https://foxs.pt/SubscribeCFBonFOX\n\nSee more from FOX Soccer: https://foxs.pt/FOXSoccer\nLike FOX Soccer on Facebook: https://foxs.pt/FOXSoccerFacebook\nFollow FOX Soccer on Twitter: https://foxs.pt/FOXSoccerTwitter\nFollow FOX Soccer on Instagram: https://foxs.pt/FOXSoccerInstagram\n\nAbout FOX Soccer:\nWith exclusive highlights, original programming, and behind the scenes footage, FOX Soccer’s YouTube channel provides the sports content that fans are hungry for. FOX Soccer presents: Bundesliga, MLS, FIFA World Cup, FIFA Women’s World Cup, Copa America, Gold Cup and many more.\n\nNetherlands vs. Croatia Highlights | UEFA Nations League Semifinals | FOX SOCCER\nhttps://youtu.be/TxyL0XMaXP8\n\nFOX Soccer\nhttps://www.youtube.com/user/Foxsoccer",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/TxyL0XMaXP8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/TxyL0XMaXP8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/TxyL0XMaXP8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/TxyL0XMaXP8/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/TxyL0XMaXP8/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "FOX Soccer",
+				"tags": [
+					"fox",
+					"fox sports",
+					"soccer",
+					"fox sports soccer",
+					"fox soccer",
+					"croatia",
+					"netherlands",
+					"Donyell Malen",
+					"Andrej Kramaric",
+					"Mario Pasalic",
+					"Noa Lang",
+					"Bruno Petkovic",
+					"Luka Modric",
+					"goals",
+					"pk",
+					"Penalty kick",
+					"shootout",
+					"pitch",
+					"added time",
+					"uefa nations league semifinals",
+					"soccer content",
+					"football",
+					"semis",
+					"semifinals",
+					"the netherlands"
+				],
+				"categoryId": "17",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Netherlands vs. Croatia Highlights | UEFA Nations League Semifinals | FOX SOCCER",
+					"description": "The Netherlands and Croatia faced off in their semifinals match for the 2023 UEFA Nations League. The Netherlands took control of the pitch early on in the match. Donyell Malen found the net to give the Netherlands a 1-0 lead. Responding, Andrej Kramarić's penalty kick brought Croatia to a 1-1 tie with the Netherlands. Then, Croatia's Mario Pašalić scored to give them a 2-1 lead. Answering in stoppage time, Netherlands' Noa Lang evened the score against Croatia, 2-2. Bruno Petkovic scored a goal in extra time to give Croatia the 3-2 lead over the Netherlands. Lastly, Croatia's Luka Modrić scored on a penalty kick to secure the 4-2 victory over the Netherlands.\n\n#FOXSoccer #UEFA #Croatia\n\nSUBSCRIBE to get the latest FOX Soccer content: http://foxs.pt/SubscribeFOXSOCCER\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n►FOX Sports YouTube Channel: http://foxs.pt/SubscribeFOXSPORTS\n►PBC ON FOX’s YouTube Channel: https://foxs.pt/SubscribePBCONFOX\n►WWE ON FOX YouTube channel: https://foxs.pt/SubscribeWWEONFOX\n►NASCAR ON FOX YouTube channel: https://foxs.pt/SubscribeNASCARonFOX\n►CFB ON FOX YouTube channel: https://foxs.pt/SubscribeCFBonFOX\n\nSee more from FOX Soccer: https://foxs.pt/FOXSoccer\nLike FOX Soccer on Facebook: https://foxs.pt/FOXSoccerFacebook\nFollow FOX Soccer on Twitter: https://foxs.pt/FOXSoccerTwitter\nFollow FOX Soccer on Instagram: https://foxs.pt/FOXSoccerInstagram\n\nAbout FOX Soccer:\nWith exclusive highlights, original programming, and behind the scenes footage, FOX Soccer’s YouTube channel provides the sports content that fans are hungry for. FOX Soccer presents: Bundesliga, MLS, FIFA World Cup, FIFA Women’s World Cup, Copa America, Gold Cup and many more.\n\nNetherlands vs. Croatia Highlights | UEFA Nations League Semifinals | FOX SOCCER\nhttps://youtu.be/TxyL0XMaXP8\n\nFOX Soccer\nhttps://www.youtube.com/user/Foxsoccer"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "06NXEidmPdYeCEq9NyDKL8jFayk",
+			"id": "t4zO7zo6wr0",
+			"snippet": {
+				"publishedAt": "2023-06-14T21:27:02Z",
+				"channelId": "UC2OREBiIbDChxvmDeg30Bsg",
+				"title": "Stephen A. Smith weighs in on Shannon Sharpe and Skip Bayless' teary goodbye",
+				"description": "On The Stephen A. Smith Show, Smith gives you his renowned point of view, breaking barriers beyond the world of sports, and tackling pertinent issues across entertainment, pop culture, society, business, and politics. Three times a week, you'll hear his LIVE unfiltered opinions on the day's biggest headlines as well as straight-shooting interviews with top celebrities, game-changers, and thought leaders across the societal arena. \n\nThe Stephen A. Smith Show is sure to entertain, inform, and motivate anyone who tunes in.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/t4zO7zo6wr0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/t4zO7zo6wr0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/t4zO7zo6wr0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/t4zO7zo6wr0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/t4zO7zo6wr0/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Stephen A. Smith",
+				"tags": [
+					"Stephen A. Smith",
+					"Stephen A",
+					"Stephen A. Smith Podcast",
+					"Know MERCY",
+					"NO MERCY",
+					"FIRST TAKE",
+					"ESPN First Take",
+					"NBA Countdown",
+					"Podcast",
+					"Motivation",
+					"Inspiration",
+					"Stephen A. Smith Cowboys",
+					"stephen a smith",
+					"stephen a. smith"
+				],
+				"categoryId": "17",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Stephen A. Smith weighs in on Shannon Sharpe and Skip Bayless' teary goodbye",
+					"description": "On The Stephen A. Smith Show, Smith gives you his renowned point of view, breaking barriers beyond the world of sports, and tackling pertinent issues across entertainment, pop culture, society, business, and politics. Three times a week, you'll hear his LIVE unfiltered opinions on the day's biggest headlines as well as straight-shooting interviews with top celebrities, game-changers, and thought leaders across the societal arena. \n\nThe Stephen A. Smith Show is sure to entertain, inform, and motivate anyone who tunes in."
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "od5DSd7_F3K4YdAcUEtcfhyVs28",
+			"id": "l6P2HT0yX3A",
+			"snippet": {
+				"publishedAt": "2023-06-15T14:30:54Z",
+				"channelId": "UC4l5F42_z5f3Wav_42g9pnA",
+				"title": "Completing Operation Dread Factor...",
+				"description": "The best Rainbow Six Siege Year 8 gameplay. Or, just a new season of pure waffle.\n✅ Install Raid for Free Mobile and PC: https://clik.cc/VC84C and get a special starter pack with an Epic champion Drake 🎉Log into the game for 7 days between now and July 24th and get a free legendary champion Artak.\n💥Check out Raid’s new limited animated series Call of the Arbiter here: https://www.youtube.com/watch?v=H32dvyCVkfk&list=PLKsMVIY2OJRMiid_k7q4rsLfmdhQsKphZ&pp=iAQB \n\nFollow me: \n Twitter @meatymarley\n Twitch @meatymarley\n Instagram @meatymarley\n\nSubscribe to these wafflers: \n@domb @ltcustard7569 @Snedger @BikiniBodhi \n\nCheck out the editor:\n@rabbitparadise \n\nThumbnail Artist:\nhttps://twitter.com/JAPSE_\n\nThe new Operation Dread Factor on Rainbow Six Siege brings new ways to play with the Operator Fenrir and new consulate map rework. The new alpha pack skins and black ice has me very excited to open 1000 alpha packs...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/l6P2HT0yX3A/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/l6P2HT0yX3A/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/l6P2HT0yX3A/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/l6P2HT0yX3A/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/l6P2HT0yX3A/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Marley",
+				"tags": [
+					"Marley",
+					"Siege",
+					"rainbow six siege",
+					"reveal",
+					"new operator",
+					"elite skin",
+					"alpha pack",
+					"best of Marley",
+					"best of siege",
+					"rainbow six siege funny moments",
+					"funny moments",
+					"glitch",
+					"nerf",
+					"Update",
+					"new map",
+					"bravo pack",
+					"new black ice",
+					"release date",
+					"reputation",
+					"best fenrir",
+					"fenrir",
+					"operation dread factor",
+					"year 8",
+					"new skins",
+					"battlepass",
+					"best fenrir gameplay",
+					"tips",
+					"consulate",
+					"rework",
+					"rainbow six siege cheating"
+				],
+				"categoryId": "20",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Completing Operation Dread Factor...",
+					"description": "The best Rainbow Six Siege Year 8 gameplay. Or, just a new season of pure waffle.\n✅ Install Raid for Free Mobile and PC: https://clik.cc/VC84C and get a special starter pack with an Epic champion Drake 🎉Log into the game for 7 days between now and July 24th and get a free legendary champion Artak.\n💥Check out Raid’s new limited animated series Call of the Arbiter here: https://www.youtube.com/watch?v=H32dvyCVkfk&list=PLKsMVIY2OJRMiid_k7q4rsLfmdhQsKphZ&pp=iAQB \n\nFollow me: \n Twitter @meatymarley\n Twitch @meatymarley\n Instagram @meatymarley\n\nSubscribe to these wafflers: \n@domb @ltcustard7569 @Snedger @BikiniBodhi \n\nCheck out the editor:\n@rabbitparadise \n\nThumbnail Artist:\nhttps://twitter.com/JAPSE_\n\nThe new Operation Dread Factor on Rainbow Six Siege brings new ways to play with the Operator Fenrir and new consulate map rework. The new alpha pack skins and black ice has me very excited to open 1000 alpha packs..."
+				},
+				"defaultAudioLanguage": "en-GB"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "ZxcOkbOoJpFC33yrCRV39NUXWoY",
+			"id": "QsCBQgr5YyY",
+			"snippet": {
+				"publishedAt": "2023-06-15T10:00:14Z",
+				"channelId": "UCXGR70CkW_pXb8n52LzCCRw",
+				"title": "we messed up...",
+				"description": "We're so sorry.... we hope to regain your trust as ASAP as possible.\n\nSubscribe to Mythical Kitchen: https://www.youtube.com/mythicalkitchen?sub_confirmation=1\n\nSubmit your Dreams Become Food photos here: https://forms.gle/cBopySaTXdzG7RFr5\n\nCheck out our podcast, A Hot Dog Is A Sandwich!\nYouTube:  @ahotdogisasandwich\nApple Podcasts: https://mythic.al/ahdias\nSpotify: https://mythic.al/hotdog\n\nClick the bell icon so you'll know when we add a new video!\n\nWant more Mythical Kitchen? Check out these playlists:\nFancy Fast Food - https://www.youtube.com/playlist?list=PLW8XZTagL0oJhk71Ip3rIzHOFY3Edw2pw\nSnack Smash - https://www.youtube.com/playlist?list=PLW8XZTagL0oKYv5beEZpH5hP8aA5ahGKQ\nFood Fears - https://www.youtube.com/playlist?list=PLW8XZTagL0oK6vh1N6DOYcdWzGyuAxjtN\nFood Feats - https://www.youtube.com/playlist?list=PLW8XZTagL0oJI4IG7pZ-y792AHI4vIbWD\n\nPick up official Mythical Kitchen merch at https://mythical.com/collections/mythical-kitchen\n\nCheck out Sporked, Mythical's new website dedicated to helping you find the best food on the shelves! - http://www.sporked.com\n\nJoin the Mythical Society: https://www.mythicalsociety.com\n\nFollow Mythical Kitchen:\nInstagram: https://instagram.com/mythicalkitchen\nFacebook: https://facebook.com/mythicalkitchen\nMythical Chef Josh's Instagram: https://instagram.com/mythicalchefjosh\n\nFollow Mythical: \nInstagram: https://instagram.com/mythical\nFacebook: https://facebook.com/mythical\nTwitter: https://twitter.com/mythical\nWebsite: https://mythical.com\n\nCheck Out Our Other Mythical Channels:\nGood Mythical Morning: https://youtube.com/goodmythicalmorning\nRhett & Link: https://youtube.com/rhettandlink\nEar Biscuits: https://applepodcasts.com/earbiscuits\nGood Mythical MORE: https://youtube.com/goodmythicalmore\n\nWant to send us something? https://mythical.com/contact\n\nIn the spirit of minimizing food waste associated with the filming of this series, Mythical is donating to the Hollywood Food Coalition ( https://hofoco.org ) who provide daily, nourishing meals to underserved communities in the Los Angeles area.\n\nClosed Captioning provided by Rev\n\nGet Mythical Kitchen gadgets and equipment!\n* Pots and Pans - https://www.amazon.com/gp/product/B01B49H5CG/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1\n* Instant Read Thermometer - https://www.amazon.com/dp/B01F59K0IW/ref=twister_B00NMQGAPS?_encoding=UTF8&psc=1\n* Immersion Blender - https://www.amazon.com/gp/product/B01J1AWUR0/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1\n* Dehydrator - https://www.amazon.com/gp/product/B01M6AZ863/ref=ox_sc_act_title_1?smid=A2L77EE7U53NWQ&psc=1\n* Vitamix Blender - https://www.amazon.com/gp/product/B0758JHZM3/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&psc=1\n* Food Processor - https://www.amazon.com/Cuisinart-DFP-14BCNY-Processor-Brushed-Stainless/dp/B01AXM4WV2?ref_=ast_sto_dp&th=1&psc=1\n* Kitchen Aid Stand Mixer - https://www.amazon.com/dp/B07QBDMCKH/ref=twister_B07XKC8VN4?_encoding=UTF8&psc=1\n* Kitchen AidPasta Attachment - https://www.amazon.com/KitchenAid-KSMPEXTA-Gourmet-Attachment-Interchangeable/dp/B01ENK4UV2?ref_=ast_sto_dp\n* Spice Grinder - https://www.amazon.com/KRUPS-Electric-Coffee-Grinder-Stainless/dp/B00004SPEU?ref_=ast_bbp_dp&th=1&psc=1",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/QsCBQgr5YyY/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/QsCBQgr5YyY/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/QsCBQgr5YyY/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/QsCBQgr5YyY/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/QsCBQgr5YyY/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Mythical Kitchen",
+				"tags": [
+					"mythical kitchen",
+					"mythical",
+					"chef",
+					"josh",
+					"scherer",
+					"nicole",
+					"food",
+					"taste test",
+					"snack",
+					"smash",
+					"fears",
+					"fancy",
+					"fast",
+					"recipe",
+					"culinary",
+					"cooking",
+					"cook",
+					"bake",
+					"baking",
+					"mythical chef josh",
+					"culinary bro-down",
+					"good mythical kitchen"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "we messed up...",
+					"description": "We're so sorry.... we hope to regain your trust as ASAP as possible.\n\nSubscribe to Mythical Kitchen: https://www.youtube.com/mythicalkitchen?sub_confirmation=1\n\nSubmit your Dreams Become Food photos here: https://forms.gle/cBopySaTXdzG7RFr5\n\nCheck out our podcast, A Hot Dog Is A Sandwich!\nYouTube:  @ahotdogisasandwich\nApple Podcasts: https://mythic.al/ahdias\nSpotify: https://mythic.al/hotdog\n\nClick the bell icon so you'll know when we add a new video!\n\nWant more Mythical Kitchen? Check out these playlists:\nFancy Fast Food - https://www.youtube.com/playlist?list=PLW8XZTagL0oJhk71Ip3rIzHOFY3Edw2pw\nSnack Smash - https://www.youtube.com/playlist?list=PLW8XZTagL0oKYv5beEZpH5hP8aA5ahGKQ\nFood Fears - https://www.youtube.com/playlist?list=PLW8XZTagL0oK6vh1N6DOYcdWzGyuAxjtN\nFood Feats - https://www.youtube.com/playlist?list=PLW8XZTagL0oJI4IG7pZ-y792AHI4vIbWD\n\nPick up official Mythical Kitchen merch at https://mythical.com/collections/mythical-kitchen\n\nCheck out Sporked, Mythical's new website dedicated to helping you find the best food on the shelves! - http://www.sporked.com\n\nJoin the Mythical Society: https://www.mythicalsociety.com\n\nFollow Mythical Kitchen:\nInstagram: https://instagram.com/mythicalkitchen\nFacebook: https://facebook.com/mythicalkitchen\nMythical Chef Josh's Instagram: https://instagram.com/mythicalchefjosh\n\nFollow Mythical: \nInstagram: https://instagram.com/mythical\nFacebook: https://facebook.com/mythical\nTwitter: https://twitter.com/mythical\nWebsite: https://mythical.com\n\nCheck Out Our Other Mythical Channels:\nGood Mythical Morning: https://youtube.com/goodmythicalmorning\nRhett & Link: https://youtube.com/rhettandlink\nEar Biscuits: https://applepodcasts.com/earbiscuits\nGood Mythical MORE: https://youtube.com/goodmythicalmore\n\nWant to send us something? https://mythical.com/contact\n\nIn the spirit of minimizing food waste associated with the filming of this series, Mythical is donating to the Hollywood Food Coalition ( https://hofoco.org ) who provide daily, nourishing meals to underserved communities in the Los Angeles area.\n\nClosed Captioning provided by Rev\n\nGet Mythical Kitchen gadgets and equipment!\n* Pots and Pans - https://www.amazon.com/gp/product/B01B49H5CG/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1\n* Instant Read Thermometer - https://www.amazon.com/dp/B01F59K0IW/ref=twister_B00NMQGAPS?_encoding=UTF8&psc=1\n* Immersion Blender - https://www.amazon.com/gp/product/B01J1AWUR0/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1\n* Dehydrator - https://www.amazon.com/gp/product/B01M6AZ863/ref=ox_sc_act_title_1?smid=A2L77EE7U53NWQ&psc=1\n* Vitamix Blender - https://www.amazon.com/gp/product/B0758JHZM3/ref=ox_sc_act_title_2?smid=ATVPDKIKX0DER&psc=1\n* Food Processor - https://www.amazon.com/Cuisinart-DFP-14BCNY-Processor-Brushed-Stainless/dp/B01AXM4WV2?ref_=ast_sto_dp&th=1&psc=1\n* Kitchen Aid Stand Mixer - https://www.amazon.com/dp/B07QBDMCKH/ref=twister_B07XKC8VN4?_encoding=UTF8&psc=1\n* Kitchen AidPasta Attachment - https://www.amazon.com/KitchenAid-KSMPEXTA-Gourmet-Attachment-Interchangeable/dp/B01ENK4UV2?ref_=ast_sto_dp\n* Spice Grinder - https://www.amazon.com/KRUPS-Electric-Coffee-Grinder-Stainless/dp/B00004SPEU?ref_=ast_bbp_dp&th=1&psc=1"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "RxDzz4TOp5cpaP3H8Jt7B9E9oxw",
+			"id": "6uFvoDeJM38",
+			"snippet": {
+				"publishedAt": "2023-06-15T17:01:29Z",
+				"channelId": "UCy06jHRS_82N2i5v1YL7glQ",
+				"title": "the most brutal man on the button",
+				"description": "https://soundcloud.com/stupidassbeats/chingy-right-thurr-cody-ko-edit\n\n\nedited by zade: \ntwitter http://twitter.com/realzade \ninsta https://www.instagram.com/reallyzade",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/6uFvoDeJM38/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/6uFvoDeJM38/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/6uFvoDeJM38/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/6uFvoDeJM38/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/6uFvoDeJM38/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Cody & Ko",
+				"categoryId": "22",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "the most brutal man on the button",
+					"description": "https://soundcloud.com/stupidassbeats/chingy-right-thurr-cody-ko-edit\n\n\nedited by zade: \ntwitter http://twitter.com/realzade \ninsta https://www.instagram.com/reallyzade"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "qCfNZBJE6BY1mlBpryuAVAlzOjk",
+			"id": "GpaGMFrlvFU",
+			"snippet": {
+				"publishedAt": "2023-06-15T10:55:49Z",
+				"channelId": "UCcx50mGQFrrrdinB6BwZcXg",
+				"title": "I Made Minecraft Mobs Better...",
+				"description": "In this video I took minecraft mobs and added new upgraded variants of them to the game.\n\nTiktok: https://www.tiktok.com/@eideridiot\nTwitter: https://twitter.com/eideridiot\nOther stuff: https://solo.to/eider",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/GpaGMFrlvFU/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/GpaGMFrlvFU/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/GpaGMFrlvFU/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/GpaGMFrlvFU/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/GpaGMFrlvFU/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Eider",
+				"categoryId": "20",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "I Made Minecraft Mobs Better...",
+					"description": "In this video I took minecraft mobs and added new upgraded variants of them to the game.\n\nTiktok: https://www.tiktok.com/@eideridiot\nTwitter: https://twitter.com/eideridiot\nOther stuff: https://solo.to/eider"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "Fwj8yzDW0mbIMwrpZGOmelOTUzw",
+			"id": "nUTPLucLU5I",
+			"snippet": {
+				"publishedAt": "2023-06-14T14:02:11Z",
+				"channelId": "UCe0DNp0mKMqrYVaTundyr9w",
+				"title": "An Extended Look at Armored Core 6",
+				"description": "►Learn about every single other Armored Core game: https://youtu.be/jNgY-kTPY3Q\n►Become a patron for early access, exclusive merch, and more http://www.patreon.com/vaatividya\n\nTIMESTAMPS ▼▼▼\n00:00 What do you see?\n02:08 Gameplay Breakdown\n09:38 The Garage\n12:58 The Boss & Miniboss \n14:59 HUD Breakdown\n22:54 Raw Gameplay\n\nMERCHANDISE\n►Consider buying a Displate poster here: https://bit.ly/43Ujbk1\n►Buy more Posters & Apparel at https://vaatividya.com/\n\n\nSPECIAL THANKS TO\n►Mispap1, for Lore / Prepare to Cry editing and footage -  @mispap1\n►Frans Bouma, for your legendary Elden Ring camera tools - https://fransbouma.com/\n►Rainer, for their modding assistance in these videos -  @rainergeis4071\n\nPLAYLISTS\n►My Best Videos: http://bit.ly/2oMp66a\n►Elden Ring Prepare to Cry: https://bit.ly/3ApeG2N\n►Elden Ring Lore: https://bit.ly/3q3saNf\n►Elden Ring Secrets: https://bit.ly/3RdCNbQ\n►Elden Ring News: https://bit.ly/2ZkDV2d\n►Sekiro Lore: https://bit.ly/2KGEzD1\n►Sekiro Secrets: https://bit.ly/2IsObhW\n►Dark Souls 3 Lore: http://bit.ly/2n0bU13\n►Dark Souls 3 News: http://bit.ly/1NQbgbW\n►Bloodborne Lore: http://bit.ly/1X9doOQ\n►Demon's Souls Lore: http://bit.ly/16mIF86\n►Dark Souls Remastered Lore: http://bit.ly/13x6nNs\n►Dark Souls 2 Lore: http://bit.ly/1dedWjI\n►Souls-like: http://bit.ly/1xCPDnu\n\n\nSOCIAL\n►Follow me on Twitter: https://twitter.com/VaatiVidya\n►Follow me on TikTok: https://www.tiktok.com/@vaatividya\n►Follow me on Twitch.tv: http://www.twitch.tv/vaatividya\n►Follow me on Tumblr: http://vaatividya.tumblr.com/\n►Follow me on Facebook: https://www.facebook.com/Vaatividya\n►Follow me on Patreon: http://www.patreon.com/vaatividya\n►Join me on Discord: http://discord.gg/vaatividya\n\n\nMUSIC (most is royalty-free or licensed from Epidemic Sound. Sign up or browse here: (https://www.epidemicsound.com/referral/j49549/)\n►Remember on your memories by FreQuency\n\n\n\nPATRONS\n►I'd like to give sincere thanks to all my patrons - your contributions have changed the course of my life, allowing me to put more emphasis on video production in the future.\n\n\n►Special thanks to Soul of Cinder-tier Patrons: John, Mihaf, Matthew, Colin, budhawillyboy, Chattan, Aritz, Erlend, Michael, Finbarwrong, David, AmazinShawn, Aidan, Joshua, Ryan, Cat, Lucian, Nicholas, HugDucks, Kyle, Xavier, Justin, Andreas, Ian, Xensvet, Mike, Loak, Morningstar, Morgan, Vanguard, Ricakardsson, Seleiful, Dain, Diablo, Chase, Andronikos, Nezzly, Rune, Thomas, Jacob, One Unimpressed Boi, Matthew, Aj, GoldenSunX, Yousif, sean, Croonz, ndr.alng, Meistermuall, Armand, Albert, Liam, AJ, Aishlinn, Reiftyr, nicolas, and Ricky.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/nUTPLucLU5I/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/nUTPLucLU5I/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/nUTPLucLU5I/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/nUTPLucLU5I/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/nUTPLucLU5I/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "VaatiVidya",
+				"tags": [
+					"guide",
+					"walkthrough",
+					"lore",
+					"dark",
+					"souls",
+					"dlc",
+					"two",
+					"bloodborne",
+					"story",
+					"vaatividya",
+					"vaati",
+					"vidya",
+					"from",
+					"software",
+					"sekiro",
+					"combat",
+					"tips",
+					"tricks",
+					"elden",
+					"ring",
+					"trailer",
+					"remake",
+					"ps5",
+					"playstation 5",
+					"queen marika",
+					"demigods",
+					"great runes",
+					"radagon",
+					"mohg",
+					"morgott",
+					"radahn",
+					"malenia",
+					"miquella",
+					"melina",
+					"dragons",
+					"liurnia",
+					"leyndell",
+					"prepare to cry",
+					"frenzied flame",
+					"secrets",
+					"ranni questline",
+					"rune farm",
+					"armored core 6",
+					"vi",
+					"all endings",
+					"best build",
+					"shadow of the erdtree",
+					"SotE",
+					"fires of rubicon",
+					"demon's souls",
+					"mech",
+					"mecha",
+					"breakdown",
+					"HUD",
+					"reveal"
+				],
+				"categoryId": "20",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en",
+				"localized": {
+					"title": "An Extended Look at Armored Core 6",
+					"description": "►Learn about every single other Armored Core game: https://youtu.be/jNgY-kTPY3Q\n►Become a patron for early access, exclusive merch, and more http://www.patreon.com/vaatividya\n\nTIMESTAMPS ▼▼▼\n00:00 What do you see?\n02:08 Gameplay Breakdown\n09:38 The Garage\n12:58 The Boss & Miniboss \n14:59 HUD Breakdown\n22:54 Raw Gameplay\n\nMERCHANDISE\n►Consider buying a Displate poster here: https://bit.ly/43Ujbk1\n►Buy more Posters & Apparel at https://vaatividya.com/\n\n\nSPECIAL THANKS TO\n►Mispap1, for Lore / Prepare to Cry editing and footage -  @mispap1\n►Frans Bouma, for your legendary Elden Ring camera tools - https://fransbouma.com/\n►Rainer, for their modding assistance in these videos -  @rainergeis4071\n\nPLAYLISTS\n►My Best Videos: http://bit.ly/2oMp66a\n►Elden Ring Prepare to Cry: https://bit.ly/3ApeG2N\n►Elden Ring Lore: https://bit.ly/3q3saNf\n►Elden Ring Secrets: https://bit.ly/3RdCNbQ\n►Elden Ring News: https://bit.ly/2ZkDV2d\n►Sekiro Lore: https://bit.ly/2KGEzD1\n►Sekiro Secrets: https://bit.ly/2IsObhW\n►Dark Souls 3 Lore: http://bit.ly/2n0bU13\n►Dark Souls 3 News: http://bit.ly/1NQbgbW\n►Bloodborne Lore: http://bit.ly/1X9doOQ\n►Demon's Souls Lore: http://bit.ly/16mIF86\n►Dark Souls Remastered Lore: http://bit.ly/13x6nNs\n►Dark Souls 2 Lore: http://bit.ly/1dedWjI\n►Souls-like: http://bit.ly/1xCPDnu\n\n\nSOCIAL\n►Follow me on Twitter: https://twitter.com/VaatiVidya\n►Follow me on TikTok: https://www.tiktok.com/@vaatividya\n►Follow me on Twitch.tv: http://www.twitch.tv/vaatividya\n►Follow me on Tumblr: http://vaatividya.tumblr.com/\n►Follow me on Facebook: https://www.facebook.com/Vaatividya\n►Follow me on Patreon: http://www.patreon.com/vaatividya\n►Join me on Discord: http://discord.gg/vaatividya\n\n\nMUSIC (most is royalty-free or licensed from Epidemic Sound. Sign up or browse here: (https://www.epidemicsound.com/referral/j49549/)\n►Remember on your memories by FreQuency\n\n\n\nPATRONS\n►I'd like to give sincere thanks to all my patrons - your contributions have changed the course of my life, allowing me to put more emphasis on video production in the future.\n\n\n►Special thanks to Soul of Cinder-tier Patrons: John, Mihaf, Matthew, Colin, budhawillyboy, Chattan, Aritz, Erlend, Michael, Finbarwrong, David, AmazinShawn, Aidan, Joshua, Ryan, Cat, Lucian, Nicholas, HugDucks, Kyle, Xavier, Justin, Andreas, Ian, Xensvet, Mike, Loak, Morningstar, Morgan, Vanguard, Ricakardsson, Seleiful, Dain, Diablo, Chase, Andronikos, Nezzly, Rune, Thomas, Jacob, One Unimpressed Boi, Matthew, Aj, GoldenSunX, Yousif, sean, Croonz, ndr.alng, Meistermuall, Armand, Albert, Liam, AJ, Aishlinn, Reiftyr, nicolas, and Ricky."
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "dCsu_1GUPK6HcmGT8wCIes52TwU",
+			"id": "q63nc3d9bJQ",
+			"snippet": {
+				"publishedAt": "2023-06-14T21:15:10Z",
+				"channelId": "UCVA73Zt2AjCc4EhractOyVA",
+				"title": "Surprising Dad With A $2000 Puppy! (😱Bad Idea!)",
+				"description": "We surprised Dad with getting a new German Shepard puppy! How does he react? Does he get upset, excited? Watch to the end to find out! Thanks to the Shumways @THESHUMWAYSHOW for flying to Michigan to pick up the puppy!\n\nThanks to @THESHUMWAYSHOW and @JazzySkye for being in our video!\n\nCheck out this video from: https://www.youtube.com/@THESHUMWAYSHOW\n\n\nFun Squad Merch: https://www.TheFunSquadStore.com\n\nOur Awesome Fun Squad YouTube Channels:\nThe Fun Squad:  https://www.youtube.com/@TheFunSquad\nJazzy Skye:  https://www.youtube.com/@JazzySkye\nJack Skye:  https://www.youtube.com/@JackSkyeOfficial\nKade Skye:  https://www.youtube.com/@KadeSkye\n\nWebsite:  https://www.TheFunSquad.com/\n\nFun Squad social media:\nInstagram: https://www.instagram.com/FunSquad_Official\n\nBusiness email:  Admin@TheFunSquad.com \nFan email:  FanMail@TheFunSquad.com",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/q63nc3d9bJQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/q63nc3d9bJQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/q63nc3d9bJQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/q63nc3d9bJQ/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/q63nc3d9bJQ/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Fun Squad Family",
+				"tags": ["fun squad family", "shumway show", "puppy"],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "en-US",
+				"localized": {
+					"title": "Surprising Dad With A $2000 Puppy! (😱Bad Idea!)",
+					"description": "We surprised Dad with getting a new German Shepard puppy! How does he react? Does he get upset, excited? Watch to the end to find out! Thanks to the Shumways @THESHUMWAYSHOW for flying to Michigan to pick up the puppy!\n\nThanks to @THESHUMWAYSHOW and @JazzySkye for being in our video!\n\nCheck out this video from: https://www.youtube.com/@THESHUMWAYSHOW\n\n\nFun Squad Merch: https://www.TheFunSquadStore.com\n\nOur Awesome Fun Squad YouTube Channels:\nThe Fun Squad:  https://www.youtube.com/@TheFunSquad\nJazzy Skye:  https://www.youtube.com/@JazzySkye\nJack Skye:  https://www.youtube.com/@JackSkyeOfficial\nKade Skye:  https://www.youtube.com/@KadeSkye\n\nWebsite:  https://www.TheFunSquad.com/\n\nFun Squad social media:\nInstagram: https://www.instagram.com/FunSquad_Official\n\nBusiness email:  Admin@TheFunSquad.com \nFan email:  FanMail@TheFunSquad.com"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "-JLMb3VBngLMrI5omEp0DBciRGU",
+			"id": "nmBxJ2VcUk0",
+			"snippet": {
+				"publishedAt": "2023-06-14T09:00:29Z",
+				"channelId": "UC4eYXhJI4-7wSWc8UNRwD4A",
+				"title": "Tank: Tiny Desk Concert",
+				"description": "NPR Music is celebrating Black Music Month with an array of brand new Tiny Desk concerts. Together, these artists represent the past, present and future of Black music. This month of carefully curated shows is a celebration of Black artists expressing themselves in ways we've never seen before, and of the Tiny Desk's unique way of showcasing that talent.\n\nAshley Pointer | June 14, 2023\nIt's practically a sin to not have Durrell \"Tank\" Babbs on your spiciest playlist — he's penned some of the steamiest records in R&B. If you've been following our Black Music Month takeover, it's likely you spotted Tank accompanying Babyface, the love maestro himself, on background vocals. In his own concert, the veteran crooner and R&B scholar performed a 14-song medley of passionate love songs and bedroom bops from across his 23 years-long career in music, and turned the Tiny Desk into \"the big, nasty Desk.\"\n\nThis doesn't happen without warning: \"Some of these songs make you wanna make up. Some of these songs make you wanna breakup and some of these songs make you want to participate in various sexual activities,\" Tank declared before traversing his catalog. Backed by the phenomenal Florida-based MVP Band, along with a trio of famed background vocalists — singer-songwriter-actor Luke James, singer Brooke Valentine and songwriter/producer Lonny Bereal — we got a taste of the songs that not only established Tank as a pillar in R&B, but hits he wrote and produced for other notable artists such as Jamie Foxx, Omarion, Marques Houston and LeToya Luckett.\n\nFull of buttery smooth runs and yearning melodies (along with the occasional, witty HR joke), Tank's Tiny Desk concert is a stellar display of how powerful the allure of R&B can be, and perhaps a masterclass for any youngin' learning how to woo.\n\nSET LIST\n\"Slowly\"\n\"Coldest\"\n\"Do What It Do\"\n\"O\"\n\"Naked\"\n\"Regret\"\n\"When We\"\n\"Dirty\"\n\"Can't Let It Show\"\n\"Slow\"\n\"See Through Love\"\n\"Maybe I Deserve\"\n\"I Deserve\"\n\"Please Don't Go\"\n\nMUSICIANS\nTank: vocals\nLonny Bereal: vocals\nBrooke Valentine: vocals\nLuke James: vocals\nLa'Chaz Holloway: guitar\nAlex Hill: keys\nJevon Hill: keys, vocals\nArthur Jones: bass\nJimmy Hill: drums\n\nTINY DESK TEAM\nProducer: Bobby Carter\nDirector: Joshua Bryant\nAudio Engineer: Neil Tevault \nCreative Director: Bob Boilen\nEditor: Maia Stern\nVideographers: Joshua Bryant, Maia Stern, Sofia Seidel, Kara Frame\nAudio Assistant: Hannah Gluvna\nProduction Assistant: Ashley Pointer\nPhotographer: Elizabeth Gillis\nTiny Desk Team: Suraya Mohamed, Josh Rogosin, Hazel Cills\nVP, Visuals and Music: Keith Jenkins\nSenior VP, Programming: Anya Grundmann\n\n#nprmusic #tinydesk #tank",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/nmBxJ2VcUk0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/nmBxJ2VcUk0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/nmBxJ2VcUk0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/nmBxJ2VcUk0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/nmBxJ2VcUk0/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "NPR Music",
+				"tags": [
+					"NPR",
+					"NPR Music",
+					"National Public Radio",
+					"Live",
+					"Performance",
+					"tiny desk",
+					"tiny desk concert",
+					"tony desk",
+					"tiny concert"
+				],
+				"categoryId": "10",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Tank: Tiny Desk Concert",
+					"description": "NPR Music is celebrating Black Music Month with an array of brand new Tiny Desk concerts. Together, these artists represent the past, present and future of Black music. This month of carefully curated shows is a celebration of Black artists expressing themselves in ways we've never seen before, and of the Tiny Desk's unique way of showcasing that talent.\n\nAshley Pointer | June 14, 2023\nIt's practically a sin to not have Durrell \"Tank\" Babbs on your spiciest playlist — he's penned some of the steamiest records in R&B. If you've been following our Black Music Month takeover, it's likely you spotted Tank accompanying Babyface, the love maestro himself, on background vocals. In his own concert, the veteran crooner and R&B scholar performed a 14-song medley of passionate love songs and bedroom bops from across his 23 years-long career in music, and turned the Tiny Desk into \"the big, nasty Desk.\"\n\nThis doesn't happen without warning: \"Some of these songs make you wanna make up. Some of these songs make you wanna breakup and some of these songs make you want to participate in various sexual activities,\" Tank declared before traversing his catalog. Backed by the phenomenal Florida-based MVP Band, along with a trio of famed background vocalists — singer-songwriter-actor Luke James, singer Brooke Valentine and songwriter/producer Lonny Bereal — we got a taste of the songs that not only established Tank as a pillar in R&B, but hits he wrote and produced for other notable artists such as Jamie Foxx, Omarion, Marques Houston and LeToya Luckett.\n\nFull of buttery smooth runs and yearning melodies (along with the occasional, witty HR joke), Tank's Tiny Desk concert is a stellar display of how powerful the allure of R&B can be, and perhaps a masterclass for any youngin' learning how to woo.\n\nSET LIST\n\"Slowly\"\n\"Coldest\"\n\"Do What It Do\"\n\"O\"\n\"Naked\"\n\"Regret\"\n\"When We\"\n\"Dirty\"\n\"Can't Let It Show\"\n\"Slow\"\n\"See Through Love\"\n\"Maybe I Deserve\"\n\"I Deserve\"\n\"Please Don't Go\"\n\nMUSICIANS\nTank: vocals\nLonny Bereal: vocals\nBrooke Valentine: vocals\nLuke James: vocals\nLa'Chaz Holloway: guitar\nAlex Hill: keys\nJevon Hill: keys, vocals\nArthur Jones: bass\nJimmy Hill: drums\n\nTINY DESK TEAM\nProducer: Bobby Carter\nDirector: Joshua Bryant\nAudio Engineer: Neil Tevault \nCreative Director: Bob Boilen\nEditor: Maia Stern\nVideographers: Joshua Bryant, Maia Stern, Sofia Seidel, Kara Frame\nAudio Assistant: Hannah Gluvna\nProduction Assistant: Ashley Pointer\nPhotographer: Elizabeth Gillis\nTiny Desk Team: Suraya Mohamed, Josh Rogosin, Hazel Cills\nVP, Visuals and Music: Keith Jenkins\nSenior VP, Programming: Anya Grundmann\n\n#nprmusic #tinydesk #tank"
+				},
+				"defaultAudioLanguage": "en-US"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "AfCP1u0-8fLZv4Er_FzudcF9y-o",
+			"id": "r_d9bHw1N7Y",
+			"snippet": {
+				"publishedAt": "2023-06-14T19:00:06Z",
+				"channelId": "UC39qIb66wPKh2L-EHjFHL1A",
+				"title": "City Girls - I Need A Thug (Official Music Video)",
+				"description": "Watch the official music video for City Girls “I Need A Thug.\"\"\nStream // Download City Girls new song \"I Need A Thug\" here: https://citygirls.lnk.to/INeedAThug\nFollow City Girls Everywhere: \nInstagram: https://instagram.com/citygirls?igshid=MzRlODBiNWFlZA==\nTwitter: https://twitter.com/citygirls?s=21&t=ft9m0IoCBguZZPTRhJtreg\nFacebook: https://www.facebook.com/CityGIrlsQC?mibextid=LQQJ4d\nStream City Girls Everywhere: \nSpotify: https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il?si=ROKJMrwMSkyp_mISnEsnmg\nApple Music: https://music.apple.com/us/artist/city-girls/42052432\nSoundcloud: https://on.soundcloud.com/VHij69Y6CkauAPgBA \nSubscribe to City Girls YouTube here: https://www.youtube.com/@CityGirls\nLyrics: \nI need a long dick nigga\nSeven figures bitch and some\n(Oww)\nThis a rich um pretty bitch anthem\nScoop my bad bitches up in a phantom\n(Where they at)\nFrom the hood\nNow I live in a mansion\n\nI need a thug\n(Thug)\nSex, money, and drugs\nPrivate jet flights while I’m getting my back rubbed\nLike TLC said, no scrubs\n(No scrubs)\nCut a check before I even give a hug\n\n(what, uhh)\n\nI need a thug\nWith swag like a rockstar\nBonnie & Clyde shit\nTongue kissing in cop cars\n(Mwah)\nPretty bitch all in my audemar\nAnd he ain’t gotta see the coochie\nHe gone spend it like that nigga in the titty bar\n(Yea)\nIt turn me on when he high and fly as fuck\nWith Cubans on\nDiamonds crushed inside his buffs\n(Oww)\nHe walk in parties and you know the sticks is up\nI walk in parties and you know the dicks is up\nI need a nigga who put that shit on\n(That shit on)\nAnd his dick long\n(Dick long)\nGive a bitch some to sit on\n(Oww)\nWrist water with his Rick on\n(Rick on)\nAnd his blick on\nHe ain’t the one you gone pick on\n\nI need a long dick nigga \nSeven figures bitch and some\n(Oww)\nThis a rich um pretty bitch anthem\nScoop my bad bitches up in a phantom\n(Where they at)\nFrom the hood\nNow I live in a mansion\n\nI need a thug\n(Thug)\nSex, money, and drugs\nPrivate jet flights while I’m getting my back rubbed\nLike TLC said, no scrubs\n(No scrubs)\nCut a check before I even give a hug\n\n(uhh, yea)\n\nI want a thug\n(Thug)\nI want a nigga with a bankroll\nTake me to the hood\nI be posted where you can’t go\nMasked up\nPooh Shiesty with it\n(Brdtt)\nGot two watches on his wrist\nThis a Patek\nHe so icey with it\nNever talking shade but he always got a pole tucked\n(Brdtt)\nThis a hellcat\nI got these niggas hitting donuts\n(Skrtt)\nI keep the stick inside the Birkin, this a big bag\n(pow pow)\nThis pussy busting like a pistol\nShit be whipping ass\n(Period)\n\nI need a thug\n(Thug)\nSex, money, and drugs\n(Oww)\nPrivate jet flights while I’m getting my back rubbed\nLike TLC said, no scrubs\n(No scrubs)\nCut a check before I even give a hug\n\nI need a thug\n(Thug)\nSex, money, and drugs\n(Oww)\nPrivate jet flights while I’m getting my back rubbed\nLike TLC said, no scrubs\n(No scrubs)\nCut a check before I even give a hug\n\n#CityGirls #INeedAThug\n\nMusic video by City Girls performing I Need A Thug. Quality Control Music/Motown Records; © 2023 Quality Control Music, LLC, under exclusive license to UMG Recordings, Inc.\n\nhttp://vevo.ly/1ayzr2",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/r_d9bHw1N7Y/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/r_d9bHw1N7Y/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/r_d9bHw1N7Y/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/r_d9bHw1N7Y/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/r_d9bHw1N7Y/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "CityGirlsVEVO",
+				"tags": [
+					"City",
+					"Girls",
+					"Need",
+					"Thug",
+					"Quality",
+					"Control",
+					"Music/Motown",
+					"Records",
+					"Hip",
+					"Hop",
+					"City Girls",
+					"Quality Control",
+					"Need Thug",
+					"Hip Hop",
+					"Rap"
+				],
+				"categoryId": "10",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "City Girls - I Need A Thug (Official Music Video)",
+					"description": "Watch the official music video for City Girls “I Need A Thug.\"\"\nStream // Download City Girls new song \"I Need A Thug\" here: https://citygirls.lnk.to/INeedAThug\nFollow City Girls Everywhere: \nInstagram: https://instagram.com/citygirls?igshid=MzRlODBiNWFlZA==\nTwitter: https://twitter.com/citygirls?s=21&t=ft9m0IoCBguZZPTRhJtreg\nFacebook: https://www.facebook.com/CityGIrlsQC?mibextid=LQQJ4d\nStream City Girls Everywhere: \nSpotify: https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il?si=ROKJMrwMSkyp_mISnEsnmg\nApple Music: https://music.apple.com/us/artist/city-girls/42052432\nSoundcloud: https://on.soundcloud.com/VHij69Y6CkauAPgBA \nSubscribe to City Girls YouTube here: https://www.youtube.com/@CityGirls\nLyrics: \nI need a long dick nigga\nSeven figures bitch and some\n(Oww)\nThis a rich um pretty bitch anthem\nScoop my bad bitches up in a phantom\n(Where they at)\nFrom the hood\nNow I live in a mansion\n\nI need a thug\n(Thug)\nSex, money, and drugs\nPrivate jet flights while I’m getting my back rubbed\nLike TLC said, no scrubs\n(No scrubs)\nCut a check before I even give a hug\n\n(what, uhh)\n\nI need a thug\nWith swag like a rockstar\nBonnie & Clyde shit\nTongue kissing in cop cars\n(Mwah)\nPretty bitch all in my audemar\nAnd he ain’t gotta see the coochie\nHe gone spend it like that nigga in the titty bar\n(Yea)\nIt turn me on when he high and fly as fuck\nWith Cubans on\nDiamonds crushed inside his buffs\n(Oww)\nHe walk in parties and you know the sticks is up\nI walk in parties and you know the dicks is up\nI need a nigga who put that shit on\n(That shit on)\nAnd his dick long\n(Dick long)\nGive a bitch some to sit on\n(Oww)\nWrist water with his Rick on\n(Rick on)\nAnd his blick on\nHe ain’t the one you gone pick on\n\nI need a long dick nigga \nSeven figures bitch and some\n(Oww)\nThis a rich um pretty bitch anthem\nScoop my bad bitches up in a phantom\n(Where they at)\nFrom the hood\nNow I live in a mansion\n\nI need a thug\n(Thug)\nSex, money, and drugs\nPrivate jet flights while I’m getting my back rubbed\nLike TLC said, no scrubs\n(No scrubs)\nCut a check before I even give a hug\n\n(uhh, yea)\n\nI want a thug\n(Thug)\nI want a nigga with a bankroll\nTake me to the hood\nI be posted where you can’t go\nMasked up\nPooh Shiesty with it\n(Brdtt)\nGot two watches on his wrist\nThis a Patek\nHe so icey with it\nNever talking shade but he always got a pole tucked\n(Brdtt)\nThis a hellcat\nI got these niggas hitting donuts\n(Skrtt)\nI keep the stick inside the Birkin, this a big bag\n(pow pow)\nThis pussy busting like a pistol\nShit be whipping ass\n(Period)\n\nI need a thug\n(Thug)\nSex, money, and drugs\n(Oww)\nPrivate jet flights while I’m getting my back rubbed\nLike TLC said, no scrubs\n(No scrubs)\nCut a check before I even give a hug\n\nI need a thug\n(Thug)\nSex, money, and drugs\n(Oww)\nPrivate jet flights while I’m getting my back rubbed\nLike TLC said, no scrubs\n(No scrubs)\nCut a check before I even give a hug\n\n#CityGirls #INeedAThug\n\nMusic video by City Girls performing I Need A Thug. Quality Control Music/Motown Records; © 2023 Quality Control Music, LLC, under exclusive license to UMG Recordings, Inc.\n\nhttp://vevo.ly/1ayzr2"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "jG_D1-GnzKucWOfuu3Rm1VGbcmI",
+			"id": "HBtesvBIKQE",
+			"snippet": {
+				"publishedAt": "2023-06-14T18:00:16Z",
+				"channelId": "UC6vZl7Qj7JglLDmN_7Or-ZQ",
+				"title": "Jack Harlow - Gang Gang Gang [Official Music Video]",
+				"description": "Jack Harlow - Gang Gang Gang\n'Jackman.' is out now: \nhttps://JackHarlow.lnk.to/Jackman\n\nDirector: Eliel Ford \nProducer: Brendan Garrett \nDP: Emerson Duggan \nEditor: Neal Farmer \nProduction Company: Bucket Pictures \nLocal Production: Hatfield Media\nLabel: Generation Now / Atlantic Records\nMarketing: Ali B\nVideo Commissioner: Kareem Johnson\n\nFOLLOW JACK HARLOW\nWebsite: https://www.jackharlow.us/\nInstagram: https://JackHarlow.lnk.to/Instagram\nTwitter: https://JackHarlow.lnk.to/Twitter\nFacebook: https://JackHarlow.lnk.to/Facebook\n\nLISTEN TO JACK HARLOW\nYoutube: https://JackHarlow.lnk.to/YouTube\nSoundCloud: https://JackHarlow.lnk.to/SoundCloud\nSpotify: https://JackHarlow.lnk.to/Spotify\nApple: https://JackHarlow.lnk.to/Apple\n\nThe official YouTube channel of Generation Now and Atlantic Records artist Jack Harlow. Subscribe for the latest music videos, performances, and more.\n\nSUBSCRIBE TO JACK’S YOUTUBE: \nhttps://JackHarlow.lnk.to/YouTube\n\n#JackHarlow #GangGangGang #Jackman",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/HBtesvBIKQE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/HBtesvBIKQE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/HBtesvBIKQE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/HBtesvBIKQE/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/HBtesvBIKQE/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Jack Harlow",
+				"tags": [
+					"jack harlow",
+					"jack rapper",
+					"harlow rapper",
+					"private garden",
+					"jack Harlow confetti",
+					"new jack Harlow",
+					"Louisville rapper",
+					"rapper from Louisville",
+					"Kentucky rapper",
+					"white rapper",
+					"jack harlow what’s popping",
+					"jack harlow what’s poppin",
+					"jack harlow whats popping",
+					"jack harlow whats poppin",
+					"whats poppin song",
+					"confetti mixtape",
+					"confetti",
+					"sweet action",
+					"gang",
+					"gang gang",
+					"gang gang gang",
+					"jackman",
+					"ride for my dogs",
+					"ride for my dawgs"
+				],
+				"categoryId": "10",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Jack Harlow - Gang Gang Gang [Official Music Video]",
+					"description": "Jack Harlow - Gang Gang Gang\n'Jackman.' is out now: \nhttps://JackHarlow.lnk.to/Jackman\n\nDirector: Eliel Ford \nProducer: Brendan Garrett \nDP: Emerson Duggan \nEditor: Neal Farmer \nProduction Company: Bucket Pictures \nLocal Production: Hatfield Media\nLabel: Generation Now / Atlantic Records\nMarketing: Ali B\nVideo Commissioner: Kareem Johnson\n\nFOLLOW JACK HARLOW\nWebsite: https://www.jackharlow.us/\nInstagram: https://JackHarlow.lnk.to/Instagram\nTwitter: https://JackHarlow.lnk.to/Twitter\nFacebook: https://JackHarlow.lnk.to/Facebook\n\nLISTEN TO JACK HARLOW\nYoutube: https://JackHarlow.lnk.to/YouTube\nSoundCloud: https://JackHarlow.lnk.to/SoundCloud\nSpotify: https://JackHarlow.lnk.to/Spotify\nApple: https://JackHarlow.lnk.to/Apple\n\nThe official YouTube channel of Generation Now and Atlantic Records artist Jack Harlow. Subscribe for the latest music videos, performances, and more.\n\nSUBSCRIBE TO JACK’S YOUTUBE: \nhttps://JackHarlow.lnk.to/YouTube\n\n#JackHarlow #GangGangGang #Jackman"
+				},
+				"defaultAudioLanguage": "en"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "0KD0nLim3GBoGyL0yO2W-aKh1Dg",
+			"id": "Q9cpNIMSabw",
+			"snippet": {
+				"publishedAt": "2023-06-15T13:00:29Z",
+				"channelId": "UCnk1idRUmwhdpy_5Il1unfw",
+				"title": "Tiktok Products that make me UNCOMFORTABLE",
+				"description": "Tiktoks most VIRAL and UNBELIEVABLE products that make me uncomfy...\n\nWatch these videos NEXT!\nVIRAL Tiktok Products I wish I Could Buy..\nhttps://youtu.be/D3VIl_Qr7WM\nI Bought VIRAL TikTok hair Products:\nhttps://www.youtube.com/watch?v=V5FgMA6LWAU&t=177s\n\nIf you see any more crazy stuff.. Tag me on TikTok!!!\n@HopeScope\nhttps://www.tiktok.com/@hopescope\n\n@HopeScope on INSTAGRAM\nhttps://www.instagram.com/hopescope",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Q9cpNIMSabw/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Q9cpNIMSabw/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Q9cpNIMSabw/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/Q9cpNIMSabw/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/Q9cpNIMSabw/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "Hang with Hopescope",
+				"tags": [
+					"tiktok",
+					"viral tiktok",
+					"reaction",
+					"funny",
+					"fail",
+					"shopping",
+					"fashion",
+					"style",
+					"creative people",
+					"satisfying",
+					"satisfying tiktok",
+					"tiktok clothing",
+					"best tiktok",
+					"tiktok crafts",
+					"cringe tiktoks",
+					"try not to cringe",
+					"went too far",
+					"tiktoks that feel illegal",
+					"cursed tiktoks",
+					"try not to get uncomfortable"
+				],
+				"categoryId": "24",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Tiktok Products that make me UNCOMFORTABLE",
+					"description": "Tiktoks most VIRAL and UNBELIEVABLE products that make me uncomfy...\n\nWatch these videos NEXT!\nVIRAL Tiktok Products I wish I Could Buy..\nhttps://youtu.be/D3VIl_Qr7WM\nI Bought VIRAL TikTok hair Products:\nhttps://www.youtube.com/watch?v=V5FgMA6LWAU&t=177s\n\nIf you see any more crazy stuff.. Tag me on TikTok!!!\n@HopeScope\nhttps://www.tiktok.com/@hopescope\n\n@HopeScope on INSTAGRAM\nhttps://www.instagram.com/hopescope"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "eWrOslE8m8ozBzByjGzsgCOt6AI",
+			"id": "Qlgclz4p9X0",
+			"snippet": {
+				"publishedAt": "2023-06-14T16:00:08Z",
+				"channelId": "UCuBt_SxWNqkgdkpBMJ_3cSg",
+				"title": "Baby Drill - Slight Dub (Official Video) feat. 21 Savage & Young Nudy",
+				"description": "Stream/Download “MadMan” here:\nhttps://babydrill.lnk.to/madman\n\nSubscribe for more BabyDrill content:\nhttps://BabyDrill.lnk.to/Subscribe \n\nFollow BabyDrill:\nhttps://instagram.com/babydrill \nhttps://BabyDrill.lnk.to/Follow/spotify\nhttps://BabyDrill.lnk.to/Follow/applemusic \n\nFollow Young Nudy:\nhttps://youngnudy.com/\nhttps://twitter.com/PDE_YOUNGNUDY \nhttps://instagram.com/youngnudy \nhttps://facebook.com/youngnudy \nhttps://soundcloud.com/youngnudy \n\nFollow 21 Savage:\nhttp://21Savage.com\nhttp://twitter.com/21Savage\nhttp://instagram.com/21Savage\nhttp://facebook.com/21Savage\n\n#BabyDrill #SlightDub #21Savage #YoungNudy",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Qlgclz4p9X0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Qlgclz4p9X0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Qlgclz4p9X0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/Qlgclz4p9X0/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/Qlgclz4p9X0/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "BabyDrill",
+				"tags": [
+					"Babydrill",
+					"baby drill",
+					"pde",
+					"young nudy",
+					"ea monster",
+					"atl rap",
+					"duntsane",
+					"21 savage",
+					"what it is freestyle",
+					"new music Friday",
+					"4lquan",
+					"how ya doin",
+					"Latto",
+					"madman",
+					"baby drill album",
+					"drill season",
+					"on my conscious",
+					"back from the dead",
+					"king smoke",
+					"slight dub",
+					"murder rate",
+					"send deposit",
+					"load up hop out",
+					"woke up",
+					"vibe check",
+					"stop running",
+					"drug sex",
+					"standing ovation",
+					"ms gummy",
+					"momiluh you",
+					"blood bath",
+					"nba youngboy",
+					"migos",
+					"lil baby",
+					"call of duty",
+					"industry baby",
+					"black 1s"
+				],
+				"categoryId": "22",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Baby Drill - Slight Dub (Official Video) feat. 21 Savage & Young Nudy",
+					"description": "Stream/Download “MadMan” here:\nhttps://babydrill.lnk.to/madman\n\nSubscribe for more BabyDrill content:\nhttps://BabyDrill.lnk.to/Subscribe \n\nFollow BabyDrill:\nhttps://instagram.com/babydrill \nhttps://BabyDrill.lnk.to/Follow/spotify\nhttps://BabyDrill.lnk.to/Follow/applemusic \n\nFollow Young Nudy:\nhttps://youngnudy.com/\nhttps://twitter.com/PDE_YOUNGNUDY \nhttps://instagram.com/youngnudy \nhttps://facebook.com/youngnudy \nhttps://soundcloud.com/youngnudy \n\nFollow 21 Savage:\nhttp://21Savage.com\nhttp://twitter.com/21Savage\nhttp://instagram.com/21Savage\nhttp://facebook.com/21Savage\n\n#BabyDrill #SlightDub #21Savage #YoungNudy"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "-S6jdgcQ0B6UklyY-Kf6UMiybgE",
+			"id": "V3UVnMBKnpI",
+			"snippet": {
+				"publishedAt": "2023-06-15T12:00:06Z",
+				"channelId": "UCSOfUqPoqpp5aWDDnAyv94g",
+				"title": "Angel Pt. 2 - JVKE, Jimin of BTS, Charlie Puth, Muni Long (FAST X Official Lyric Video)",
+				"description": "Out Now: https://fastx.lnk.to/AngelPt2\nFAST X Original Motion Picture Soundtrack: https://fastx.lnk.to/soundtrack\n\nFOLLOW ME ON INSTAGRAM @ITSJVKE: https://www.instagram.com/itsjvke/\n\nFOLLOW ME ON TIKTOK @JVKE: https://www.tiktok.com/@jvke?lang=en\n\nFOLLOW ME ON TWITTER @JVKESONGS: https://twitter.com/jvkesongs?s=20\n\nSNAP ME: https://www.snapchat.com/add/imjakela​...\n\nNEW MERCH: http://itsjvke.com/#shop​\n\n#JVKE #fastx  #fastnfurious",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/V3UVnMBKnpI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/V3UVnMBKnpI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/V3UVnMBKnpI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/V3UVnMBKnpI/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/V3UVnMBKnpI/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "JVKE",
+				"tags": ["JVKE", "Jake"],
+				"categoryId": "10",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "Angel Pt. 2 - JVKE, Jimin of BTS, Charlie Puth, Muni Long (FAST X Official Lyric Video)",
+					"description": "Out Now: https://fastx.lnk.to/AngelPt2\nFAST X Original Motion Picture Soundtrack: https://fastx.lnk.to/soundtrack\n\nFOLLOW ME ON INSTAGRAM @ITSJVKE: https://www.instagram.com/itsjvke/\n\nFOLLOW ME ON TIKTOK @JVKE: https://www.tiktok.com/@jvke?lang=en\n\nFOLLOW ME ON TWITTER @JVKESONGS: https://twitter.com/jvkesongs?s=20\n\nSNAP ME: https://www.snapchat.com/add/imjakela​...\n\nNEW MERCH: http://itsjvke.com/#shop​\n\n#JVKE #fastx  #fastnfurious"
+				}
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "vcuTIluL424bHBEG_0BvUjFKAU8",
+			"id": "jyFxneb5M5Y",
+			"snippet": {
+				"publishedAt": "2023-06-15T15:00:06Z",
+				"channelId": "UC8CX0LD98EDXl4UYX1MDCXg",
+				"title": "THE GAMES BEGIN. // Team Deathmatch Game Mode Trailer - VALORANT",
+				"description": "READY FOR A BIT OF FUN?\n\nTeam Deathmatch is on its way, and Maxbot’s pulling the strings. Prepare for three new maps, high-octane action, and plenty of ways to flex your plays. \n\nLaunching with Episode_07 // ACT I.\nhttps://playvalorant.com/en-us/news/game-updates/valorant-team-deathmatch-101/\n\n—\nMUSIC_\nArtist name: overunder\nSong title: The Drop (feat. Christian Foley)\nListen: https://elephant.ffm.to/thedrop.CPX\nPlay VALORANT: https://riot.com/3idlntG \n\nFollow us:\nTwitter: https://riot.com/2HIv1s1 \nInstagram: https://riot.com/2S8uTnm  \nTikTok: https://riot.com/3FwNKSE \n\n\n#VALORANT #TEAMDEATHMATCH #RIOTGAMES",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/jyFxneb5M5Y/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/jyFxneb5M5Y/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/jyFxneb5M5Y/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/jyFxneb5M5Y/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					},
+					"maxres": {
+						"url": "https://i.ytimg.com/vi/jyFxneb5M5Y/maxresdefault.jpg",
+						"width": 1280,
+						"height": 720
+					}
+				},
+				"channelTitle": "VALORANT",
+				"tags": [
+					"Maxbot",
+					"max",
+					"bot",
+					"Game",
+					"Mode",
+					"Team",
+					"Deathmatch",
+					"death",
+					"match TDM",
+					"Phoenix",
+					"phx",
+					"Killjoy",
+					"kj",
+					"raze",
+					"Gekko",
+					"EVOLUTION",
+					"New",
+					"Episode",
+					"VII",
+					"trailer",
+					"VALORANT",
+					"val",
+					"act",
+					"fps",
+					"shooters",
+					"tactical",
+					"launch",
+					"agent",
+					"agents"
+				],
+				"categoryId": "20",
+				"liveBroadcastContent": "none",
+				"localized": {
+					"title": "THE GAMES BEGIN. // Team Deathmatch Game Mode Trailer - VALORANT",
+					"description": "READY FOR A BIT OF FUN?\n\nTeam Deathmatch is on its way, and Maxbot’s pulling the strings. Prepare for three new maps, high-octane action, and plenty of ways to flex your plays. \n\nLaunching with Episode_07 // ACT I.\nhttps://playvalorant.com/en-us/news/game-updates/valorant-team-deathmatch-101/\n\n—\nMUSIC_\nArtist name: overunder\nSong title: The Drop (feat. Christian Foley)\nListen: https://elephant.ffm.to/thedrop.CPX\nPlay VALORANT: https://riot.com/3idlntG \n\nFollow us:\nTwitter: https://riot.com/2HIv1s1 \nInstagram: https://riot.com/2S8uTnm  \nTikTok: https://riot.com/3FwNKSE \n\n\n#VALORANT #TEAMDEATHMATCH #RIOTGAMES"
+				},
+				"defaultAudioLanguage": "en-US"
+			}
+		},
+		{
+			"kind": "youtube#video",
+			"etag": "rpY-tkWH3O6PpB40jPAL6hR9wSs",
+			"id": "IkJ1oI1D2w4",
+			"snippet": {
+				"publishedAt": "2023-06-14T00:00:08Z",
+				"channelId": "UCFlC8U0Uif2hF0FIgsSIIYQ",
+				"title": "Grupo Firme  - Alejandro Fernandez - Felicidades (Video Oficial)",
+				"description": "Grupo Firme - Alejandro Fernandez \n\"Felicidades \" Isael Gutierrez & Evert Gutierrez , Exclusive License To Music Vip Entertainment \nSuscríbete a Youtube: https://www.youtube.com/channel/UCFlC8U0Uif2hF0FIgsSIIYQ\nSuscribete Aqui https://bit.ly/333fXen\nSpotify https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl?si=26VEtj79QXuQWtbaH55FfQ\n\nDirector: Isael Gutierrez \nDirector: Evert Gutierrez\nTema: Felicidades\nAutor: Luis Mexia \nAutor: Iván Gámez\nDirector De Fotografia : Mane Borja \nDuración: 3:22\nLetra \nAndo haciendo una rifa pa’ mandar lejos\n¿Y qué crees? Tú traes todos los boletos\nMereces el primer lugar en eso de hacer todo mal\nLe echaste muchas ganas, ten tu premio y te me largas\n\nFelicidades\nTe ganaste una rifa que va \nDirectito a chingar a tu madre\nY en la categoria de las tonterias\nNo hubo quien te gane.\n\nFelicidades\nYa puedes reclamar tu futuro\nSin mi y ese va sin regreso\nMe disculpas si no \nPuse las instrucciones\nPa estar sin mis besos.\n\nNeta que mis respetos \nDe tu merito y esfuerzo\nPa ganarte mi desprecio.\n\nMUSICA \n\nFelicidades te \ngantas un boleto \nDirecto con rumbo \nA que me valgas madre.\nY en la categoria de las tontenias\nNo hubo quien te gane.\n\nFelicidades\nYa puedes reclamar tu futuro\nSin mi y ese va sin regreso\nMe disculpas si no \nPuse las instrucciones\nPa estar sin mis besos.\n\n\nNeta que mis respetos \nDe tu merito y esfuerzo\nPa ganarte mi desprecio.\nDisquera: Music VIP Entertainment  ℗ 2023\nGénero: Regional Mexicano \nEditora:Music VIP Entertainment\n\n© 2023 Music VIP Entertainment, LLC, \n\n#grupofirme #eduincaz #alejandrofernandez",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/IkJ1oI1D2w4/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/IkJ1oI1D2w4/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/IkJ1oI1D2w4/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					},
+					"standard": {
+						"url": "https://i.ytimg.com/vi/IkJ1oI1D2w4/sddefault.jpg",
+						"width": 640,
+						"height": 480
+					}
+				},
+				"channelTitle": "Grupo Firme",
+				"tags": [
+					"Grupo Firme",
+					"Grupo Firme music",
+					"Grupo Firme nuevo video",
+					"Grupo Firme video",
+					"Grupo Firme video oficial",
+					"Grupo Firme mix 2021",
+					"Grupo Firme Covers",
+					"Grupo Firme new video",
+					"Grupo Firme official video",
+					"Grupo Firme video nuevo",
+					"new single Grupo Firme",
+					"Firme",
+					"Firme music",
+					"Firme nuevo video",
+					"Firme video",
+					"Firme video oficial",
+					"Firme Covers",
+					"Firme mix 2021",
+					"Firme new video",
+					"Firme official video",
+					"Firme video nuevo",
+					"new single Firme"
+				],
+				"categoryId": "10",
+				"liveBroadcastContent": "none",
+				"defaultLanguage": "es-MX",
+				"localized": {
+					"title": "Grupo Firme  - Alejandro Fernandez - Felicidades (Video Oficial)",
+					"description": "Grupo Firme - Alejandro Fernandez \n\"Felicidades \" Isael Gutierrez & Evert Gutierrez , Exclusive License To Music Vip Entertainment \nSuscríbete a Youtube: https://www.youtube.com/channel/UCFlC8U0Uif2hF0FIgsSIIYQ\nSuscribete Aqui https://bit.ly/333fXen\nSpotify https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl?si=26VEtj79QXuQWtbaH55FfQ\n\nDirector: Isael Gutierrez \nDirector: Evert Gutierrez\nTema: Felicidades\nAutor: Luis Mexia \nAutor: Iván Gámez\nDirector De Fotografia : Mane Borja \nDuración: 3:22\nLetra \nAndo haciendo una rifa pa’ mandar lejos\n¿Y qué crees? Tú traes todos los boletos\nMereces el primer lugar en eso de hacer todo mal\nLe echaste muchas ganas, ten tu premio y te me largas\n\nFelicidades\nTe ganaste una rifa que va \nDirectito a chingar a tu madre\nY en la categoria de las tonterias\nNo hubo quien te gane.\n\nFelicidades\nYa puedes reclamar tu futuro\nSin mi y ese va sin regreso\nMe disculpas si no \nPuse las instrucciones\nPa estar sin mis besos.\n\nNeta que mis respetos \nDe tu merito y esfuerzo\nPa ganarte mi desprecio.\n\nMUSICA \n\nFelicidades te \ngantas un boleto \nDirecto con rumbo \nA que me valgas madre.\nY en la categoria de las tontenias\nNo hubo quien te gane.\n\nFelicidades\nYa puedes reclamar tu futuro\nSin mi y ese va sin regreso\nMe disculpas si no \nPuse las instrucciones\nPa estar sin mis besos.\n\n\nNeta que mis respetos \nDe tu merito y esfuerzo\nPa ganarte mi desprecio.\nDisquera: Music VIP Entertainment  ℗ 2023\nGénero: Regional Mexicano \nEditora:Music VIP Entertainment\n\n© 2023 Music VIP Entertainment, LLC, \n\n#grupofirme #eduincaz #alejandrofernandez"
+				},
+				"defaultAudioLanguage": "es-MX"
+			}
+		}
+	],
+	"nextPageToken": "CBkQAA",
+	"pageInfo": {
+		"totalResults": 200,
+		"resultsPerPage": 25
+	}
+}

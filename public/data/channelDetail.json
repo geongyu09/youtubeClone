@@ -1,0 +1,43 @@
+{
+	"kind": "youtube#channelListResponse",
+	"etag": "rtTHKPO5-uHZwU41VnPAF-jmUiA",
+	"pageInfo": {
+		"totalResults": 1,
+		"resultsPerPage": 5
+	},
+	"items": [
+		{
+			"kind": "youtube#channel",
+			"etag": "1CxfYRnqQo2HMM9wNkhOiS_Xkyo",
+			"id": "UCR9Gcq0CMm6YgTzsDxAxjOQ",
+			"snippet": {
+				"title": "Grian",
+				"description": "This channel focuses on gaming (specifically minecraft) content aimed at a general audience. I build minecraft houses and make minecraft house tutorials along with everything else minecraft. If you want to learn how to build minecraft houses, or like hermitcraft, check out my videos. If you want to learn how to build in minecraft this is the place for you!\n\nSafety Disclaimer: I never add viewers on any personal accounts, such as Discord. Please be wary who you add on Discord, Skype or other instant messaging programs! Also never comment your personal contact information such as Skype, discord or e-mail address on my videos. Please be safe online! If you think you have me added on skype or another platform IT IS NOT ME. I don't use alt accounts, I only use my main, linked accounts.",
+				"customUrl": "@grian",
+				"publishedAt": "2009-11-22T21:10:02Z",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/ytc/AGIKgqNfZZpOKfvmgb1xgnIq0peEFQ2S5j-e5p4lgZIp2Q=s88-c-k-c0x00ffffff-no-rj",
+						"width": 88,
+						"height": 88
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/ytc/AGIKgqNfZZpOKfvmgb1xgnIq0peEFQ2S5j-e5p4lgZIp2Q=s240-c-k-c0x00ffffff-no-rj",
+						"width": 240,
+						"height": 240
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/ytc/AGIKgqNfZZpOKfvmgb1xgnIq0peEFQ2S5j-e5p4lgZIp2Q=s800-c-k-c0x00ffffff-no-rj",
+						"width": 800,
+						"height": 800
+					}
+				},
+				"localized": {
+					"title": "Grian",
+					"description": "This channel focuses on gaming (specifically minecraft) content aimed at a general audience. I build minecraft houses and make minecraft house tutorials along with everything else minecraft. If you want to learn how to build minecraft houses, or like hermitcraft, check out my videos. If you want to learn how to build in minecraft this is the place for you!\n\nSafety Disclaimer: I never add viewers on any personal accounts, such as Discord. Please be wary who you add on Discord, Skype or other instant messaging programs! Also never comment your personal contact information such as Skype, discord or e-mail address on my videos. Please be safe online! If you think you have me added on skype or another platform IT IS NOT ME. I don't use alt accounts, I only use my main, linked accounts."
+				},
+				"country": "GB"
+			}
+		}
+	]
+}

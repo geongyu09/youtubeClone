@@ -1,0 +1,850 @@
+{
+	"kind": "youtube#searchListResponse",
+	"etag": "0A8nVepK_D6YOsA8-q2ALPJot1E",
+	"nextPageToken": "CBkQAA",
+	"regionCode": "US",
+	"pageInfo": {
+		"totalResults": 1000000,
+		"resultsPerPage": 25
+	},
+	"items": [
+		{
+			"kind": "youtube#searchResult",
+			"etag": "fDv7PjND3qfmR30jNAEuW8EKfZM",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "XH8_ogHp-IM"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-05T13:00:22Z",
+				"channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+				"title": "DRX vs. T1 | 매치42 하이라이트 | 07.05 | 2023 LCK 서머 스플릿",
+				"description": "타임라인 00:00 Intro 00:05 Game1 08:35 Game1 분석데스크 13:53 Game2 23:27 Game2 분석데스크 #LCK #WeMakeLegends ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/XH8_ogHp-IM/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/XH8_ogHp-IM/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/XH8_ogHp-IM/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LCK",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-05T13:00:22Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "y02FSf3vrugTlHUMRML6DlswyK0",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "MMxVAfPAO50"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-05T11:11:00Z",
+				"channelId": "UCJouTgWU7M8rO_svsIfSf9w",
+				"title": "FAKER IS INJURED AND CAN´T PLAY! | DRX vs T1 Game 1 LCK SUMMER 2023",
+				"description": "DRX vs T1 Game 1 LCK SUMMER 2023 - DRAGONX vs SKT T1 Game 1 LCK SUMMER 2023 -Subscribe to Be Challenger!",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/MMxVAfPAO50/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/MMxVAfPAO50/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/MMxVAfPAO50/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Be Challenger",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-05T11:11:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "BXrMfZDHQr1p7TU2g7tbeJ7GOEY",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "DoSr3d99AEA"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-05T11:22:36Z",
+				"channelId": "UCPhab209KEicqPJFAk9IZEA",
+				"title": "DRX vs T1 Highlights Game 1 LCK Summer Season 2023 W5D1 DRX vs T1 by Onivia",
+				"description": "Play fantasy League on Egoapp! https://onivia.com/egoapp Hey guys, from now on you will see my face reacting randomly to ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/DoSr3d99AEA/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/DoSr3d99AEA/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/DoSr3d99AEA/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Onivia LEC, LCS, LCK, LPL Highlights",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-05T11:22:36Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "iqAQNSRpwxqzGoZ2DS0-Wusaxws",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "Y7pbo4jy9T0"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-05T13:15:02Z",
+				"channelId": "UCKVlixycWmapnGQ_wht4cHQ",
+				"title": "DRX vs. T1 | Match42 Highlight 07.05 | 2023 LCK Summer Split",
+				"description": "LCK #WeMakeLegends ✓ Watch LCK live on... - http://twitch.tv/LCK - http://twitch.tv/otplol_ ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Y7pbo4jy9T0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Y7pbo4jy9T0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Y7pbo4jy9T0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LCK Global",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-05T13:15:02Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "7B4oRNdxIDZJhou5Lmr76YFp73I",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "mQxA4PMO26g"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-05T16:30:03Z",
+				"channelId": "UCKVlixycWmapnGQ_wht4cHQ",
+				"title": "KDF vs DK - DRX vs T1 | 2023 LCK Summer Split",
+				"description": "LCK #WeMakeLegends ✓ Watch LCK live on... - http://twitch.tv/LCK - http://twitch.tv/otplol_ ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/mQxA4PMO26g/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/mQxA4PMO26g/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/mQxA4PMO26g/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LCK Global",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-05T16:30:03Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "noX_fPdW_0Cu50KLhjnE_RJrJ9s",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "DkW6bEYo9ZM"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-05T13:24:05Z",
+				"channelId": "UCm0P5i4TNItvgmPCZCGSyYA",
+				"title": "DRX vs T1 | Full Game 1, 2 | LCK Mùa Hè 2023 | DRX vs T1",
+				"description": "DRX vs T1 | Full Game 1, 2 | LCK Mùa Hè 2023 | DRX vs T1 - - - - - - - - - - - - - - - - - - - LCK Tiếng Việt là Channel giữ bản quyền ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/DkW6bEYo9ZM/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/DkW6bEYo9ZM/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/DkW6bEYo9ZM/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LCK Tiếng Việt",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-05T13:24:05Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "Y9JvVMriDV1x1IFIE635U21vQhg",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "_wdSaU4Wj2c"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-05T12:27:07Z",
+				"channelId": "UCm0P5i4TNItvgmPCZCGSyYA",
+				"title": "DRX vs T1 Highlights ALL GAMES | Match 42 | LCK Summer Split 2023",
+				"description": "DRX vs T1 Highlights ALL GAMES | Match 42 | LCK Summer Split 2023 - - - - - - - - - - - - - - - - - - LCK Tiếng Việt là Channel giữ ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/_wdSaU4Wj2c/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/_wdSaU4Wj2c/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/_wdSaU4Wj2c/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LCK Tiếng Việt",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-05T12:27:07Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "pbx6nKiHtBtp7AcwRZ6jDg3Wevk",
+			"id": {
+				"kind": "youtube#channel",
+				"channelId": "UCKVlixycWmapnGQ_wht4cHQ"
+			},
+			"snippet": {
+				"publishedAt": "2019-01-14T08:43:10Z",
+				"channelId": "UCKVlixycWmapnGQ_wht4cHQ",
+				"title": "LCK Global",
+				"description": "LCK Official Youtube Channel [Notice] The League of Legends Champions Korea (\"LCK\") and all international competitions run ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/HLgpgn7G1bF2LUyjGBXQUXVGu96C6KIx1U62B-TAkRyqjkGW2FKtS6jf3b0NX4CIhJGR_s96GQ=s88-c-k-c0xffffffff-no-rj-mo"
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/HLgpgn7G1bF2LUyjGBXQUXVGu96C6KIx1U62B-TAkRyqjkGW2FKtS6jf3b0NX4CIhJGR_s96GQ=s240-c-k-c0xffffffff-no-rj-mo"
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/HLgpgn7G1bF2LUyjGBXQUXVGu96C6KIx1U62B-TAkRyqjkGW2FKtS6jf3b0NX4CIhJGR_s96GQ=s800-c-k-c0xffffffff-no-rj-mo"
+					}
+				},
+				"channelTitle": "LCK Global",
+				"liveBroadcastContent": "upcoming",
+				"publishTime": "2019-01-14T08:43:10Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "mXb-r3JhbeBiLXuaP2f0My66mQU",
+			"id": {
+				"kind": "youtube#channel",
+				"channelId": "UCw1DsweY9b2AKGjV4kGJP1A"
+			},
+			"snippet": {
+				"publishedAt": "2019-01-14T08:42:08Z",
+				"channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+				"title": "LCK",
+				"description": "리그 오브 레전드 챔피언스 코리아 (LCK) 공식 유튜브 채널입니다. . . [안내 말씀] 라이엇 게임즈가 운영하는 리그오브레전드 챔피언스 ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://yt3.ggpht.com/E9HNjYwd0u48VEUMZC_Nld8GObjVoq5FsXR8wSNxipEgIOwY8KJMsIuo0uIaSwr5Vj3nnYB3Ng=s88-c-k-c0xffffffff-no-rj-mo"
+					},
+					"medium": {
+						"url": "https://yt3.ggpht.com/E9HNjYwd0u48VEUMZC_Nld8GObjVoq5FsXR8wSNxipEgIOwY8KJMsIuo0uIaSwr5Vj3nnYB3Ng=s240-c-k-c0xffffffff-no-rj-mo"
+					},
+					"high": {
+						"url": "https://yt3.ggpht.com/E9HNjYwd0u48VEUMZC_Nld8GObjVoq5FsXR8wSNxipEgIOwY8KJMsIuo0uIaSwr5Vj3nnYB3Ng=s800-c-k-c0xffffffff-no-rj-mo"
+					}
+				},
+				"channelTitle": "LCK",
+				"liveBroadcastContent": "upcoming",
+				"publishTime": "2019-01-14T08:42:08Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "iJakmdkgWc6sq7BvP3_FXhwRgQM",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "1mlME6WOSrc"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-05T13:47:21Z",
+				"channelId": "UCOFiUtKui6-x4T-J7_DgCag",
+				"title": "T1 WITHOUT FAKER - HOW WILL THEY MATCH UP VS DRX - CAEDREL",
+				"description": "Follow Marc: ▻https://www.twitch.tv/Caedrel ▻https://twitter.com/Caedrel ▻https://www.instagram.com/caedrel/ ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/1mlME6WOSrc/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/1mlME6WOSrc/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/1mlME6WOSrc/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Caedrel",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-05T13:47:21Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "N7jcDIKfN5KyWMnCERcRcujBjbg",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "bwjfWZxiR_I"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-05T11:39:10Z",
+				"channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+				"title": "우리 잭스 세주?! | DRX vs. T1 게임1 하이라이트 | 07.05 | 2023 LCK 서머 스플릿",
+				"description": "LCK #WeMakeLegends ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/bwjfWZxiR_I/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/bwjfWZxiR_I/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/bwjfWZxiR_I/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LCK",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-05T11:39:10Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "i0N05Q4u-R3AXDzk_xCmShp2re8",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "05BGEYZ75Ls"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-05T10:30:00Z",
+				"channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+				"title": "KDF vs. DK | 매치41 하이라이트 | 07.05 | 2023 LCK 서머 스플릿",
+				"description": "타임라인 00:00 Intro 00:05 Game1 07:59 Game1 분석데스크 13:57 Game2 22:47 Game2 분석데스크 #LCK #WeMakeLegends ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/05BGEYZ75Ls/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/05BGEYZ75Ls/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/05BGEYZ75Ls/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LCK",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-05T10:30:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "7vJ4IaScJlnoT9dotqLMWbcdtg8",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "UivOhTx0x2A"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-02T11:38:38Z",
+				"channelId": "UCKVlixycWmapnGQ_wht4cHQ",
+				"title": "GEN vs HLE - NS vs T1 | 2023 LCK Summer Split",
+				"description": "LCK #WeMakeLegends ✓ Watch LCK live on... - http://twitch.tv/LCK - http://twitch.tv/otplol_ ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/UivOhTx0x2A/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/UivOhTx0x2A/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/UivOhTx0x2A/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LCK Global",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-02T11:38:38Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "1eMh6dxve1LdMpRHCw0s8lTsQL4",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "zvAzpkvAKvY"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-05T11:12:59Z",
+				"channelId": "UCm0P5i4TNItvgmPCZCGSyYA",
+				"title": "[05.07.2023] DRX vs T1 | Game 1 | Bình Luận Tiếng Việt | LCK Mùa Hè 2023",
+				"description": "[05.07.2023] DRX vs T1 | Game 1 | Bình Luận Tiếng Việt | LCK Mùa Hè 2023 - - - - - - - - - - - - - - - - - - - LCK Tiếng Việt là Channel ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/zvAzpkvAKvY/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/zvAzpkvAKvY/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/zvAzpkvAKvY/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LCK Tiếng Việt",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-05T11:12:59Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "IPsmaJohX-zn5rITM2WM3xbMysQ",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "_8ChqvZUP5U"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-05T12:09:51Z",
+				"channelId": "UCu6I8esx7DN30KQ9CbxEbUQ",
+				"title": "PUEDE GANAR T1 CON FAKER LESIONADO? | T1 vs DRX Resumen Completo LCK Summer 2023",
+				"description": "T1 vs DRX Resumen Completo LCK Summer 2023 -Podemos llegar a 100.000 suscriptores? Suscribete al canal clicando aquí!",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/_8ChqvZUP5U/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/_8ChqvZUP5U/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/_8ChqvZUP5U/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LoL Esports VODS en Español",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-05T12:09:51Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "vKds0Z8oB24y_FAIXZ3EKZaCBvU",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "wagLdNc8AAw"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-05T12:24:39Z",
+				"channelId": "UCPhab209KEicqPJFAk9IZEA",
+				"title": "DRX vs T1 Highlights Game 2 LCK Summer Season 2023 W5D1 DRX vs T1 by Onivia",
+				"description": "Play fantasy League on Egoapp! https://onivia.com/egoapp Hey guys, from now on you will see my face reacting randomly to ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/wagLdNc8AAw/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/wagLdNc8AAw/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/wagLdNc8AAw/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Onivia LEC, LCS, LCK, LPL Highlights",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-05T12:24:39Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "ltdWZ5Vqw8V2IRROM9TeBQmcfek",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "Zcg64BWWURM"
+			},
+			"snippet": {
+				"publishedAt": "2023-04-09T11:52:13Z",
+				"channelId": "UCKVlixycWmapnGQ_wht4cHQ",
+				"title": "T1 vs GEN | 2023 LCK Spring Grand Finals",
+				"description": "LCK #WeMakeLegends ✓ Watch LCK live on... - http://twitch.tv/LCK - http://twitch.tv/otplol_ ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Zcg64BWWURM/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Zcg64BWWURM/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Zcg64BWWURM/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LCK Global",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-04-09T11:52:13Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "35a3MlAn7DzcBpjQqg9GDzQbFO0",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "rdqkfyMWaQ4"
+			},
+			"snippet": {
+				"publishedAt": "2023-06-28T12:47:51Z",
+				"channelId": "UCKVlixycWmapnGQ_wht4cHQ",
+				"title": "HLE vs DK - KT vs KDF | 2023 LCK Summer Split",
+				"description": "LCK #WeMakeLegends ✓ Watch LCK live on... - http://twitch.tv/LCK - http://twitch.tv/otplol_ ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/rdqkfyMWaQ4/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/rdqkfyMWaQ4/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/rdqkfyMWaQ4/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LCK Global",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-06-28T12:47:51Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "JKlIMYW3riVVdqcoRKAsQg85M2s",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "dFbsQ7XTrqQ"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-05T12:38:22Z",
+				"channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+				"title": "형은 다 알 수가 있다? | DRX vs. T1 게임2 하이라이트 | 07.05 | 2023 LCK 서머 스플릿",
+				"description": "LCK #WeMakeLegends ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/dFbsQ7XTrqQ/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/dFbsQ7XTrqQ/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/dFbsQ7XTrqQ/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LCK",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-05T12:38:22Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "lRfi5Bjv8eTs4Kh-F4d1rdHk6Dg",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "8gz83K3upNs"
+			},
+			"snippet": {
+				"publishedAt": "2023-06-24T11:33:33Z",
+				"channelId": "UCKVlixycWmapnGQ_wht4cHQ",
+				"title": "DK vs GEN - T1 vs KT | 2023 LCK Summer Split",
+				"description": "LCK #WeMakeLegends ✓ Watch LCK live on... - http://twitch.tv/LCK - http://twitch.tv/otplol_ ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/8gz83K3upNs/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/8gz83K3upNs/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/8gz83K3upNs/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LCK Global",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-06-24T11:33:33Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "vPRRYmQnvKUh7HUr0BkB_BLnGiQ",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "FEvyTmEjF8A"
+			},
+			"snippet": {
+				"publishedAt": "2023-06-21T13:54:41Z",
+				"channelId": "UCKVlixycWmapnGQ_wht4cHQ",
+				"title": "LSB vs BRO - KDF vs T1 | 2023 LCK Summer Split",
+				"description": "LCK #WeMakeLegends ✓ Watch LCK live on... - http://twitch.tv/LCK - http://twitch.tv/otplol_ ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/FEvyTmEjF8A/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/FEvyTmEjF8A/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/FEvyTmEjF8A/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LCK Global",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-06-21T13:54:41Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "hYeTWX4AQmpiAIabeBD1NMBQBC8",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "Qwwu_Rb__Wg"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-05T12:05:56Z",
+				"channelId": "UCJouTgWU7M8rO_svsIfSf9w",
+				"title": "DRX vs T1 Game 2 LCK SUMMER 2023 - DRAGONX vs SKT T1 Game 2 LCK SUMMER 2023",
+				"description": "DRX vs T1 Game 2 LCK SUMMER 2023 - DRAGONX vs SKT T1 Game 2 LCK SUMMER 2023 -Subscribe to Be Challenger!",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Qwwu_Rb__Wg/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Qwwu_Rb__Wg/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Qwwu_Rb__Wg/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Be Challenger",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-05T12:05:56Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "Or1aCoKcqVWC882tgl1laDndjkU",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "klEzA__17Ws"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-05T07:13:53Z",
+				"channelId": "UCKVlixycWmapnGQ_wht4cHQ",
+				"title": "NS vs HLE - LSB vs GEN | 2023 LCK Summer Split",
+				"description": "LCK #WeMakeLegends ✓ Watch LCK live on... - http://twitch.tv/LCK - http://twitch.tv/otplol_ ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/klEzA__17Ws/default_live.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/klEzA__17Ws/mqdefault_live.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/klEzA__17Ws/hqdefault_live.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LCK Global",
+				"liveBroadcastContent": "upcoming",
+				"publishTime": "2023-07-05T07:13:53Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "YH0Bzcv3R7n9cKbuy7rlzZQkSZY",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "QsyWIqjx7sU"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-05T07:14:30Z",
+				"channelId": "UCKVlixycWmapnGQ_wht4cHQ",
+				"title": "BRO vs KT - DK vs DRX | 2023 LCK Summer Split",
+				"description": "LCK #WeMakeLegends ✓ Watch LCK live on... - http://twitch.tv/LCK - http://twitch.tv/otplol_ ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/QsyWIqjx7sU/default_live.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/QsyWIqjx7sU/mqdefault_live.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/QsyWIqjx7sU/hqdefault_live.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LCK Global",
+				"liveBroadcastContent": "upcoming",
+				"publishTime": "2023-07-05T07:14:30Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "U8zMlzHVMjMM3JTlnoMZlKiF-IA",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "MMaPzdbhnjc"
+			},
+			"snippet": {
+				"publishedAt": "2023-06-25T11:59:39Z",
+				"channelId": "UCKVlixycWmapnGQ_wht4cHQ",
+				"title": "NS vs DRX - BRO vs HLE | 2023 LCK Summer Split",
+				"description": "LCK #WeMakeLegends ✓ Watch LCK live on... - http://twitch.tv/LCK - http://twitch.tv/otplol_ ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/MMaPzdbhnjc/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/MMaPzdbhnjc/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/MMaPzdbhnjc/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "LCK Global",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-06-25T11:59:39Z"
+			}
+		}
+	]
+}
