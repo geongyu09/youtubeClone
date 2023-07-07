@@ -21,6 +21,7 @@ export default function VideoCard({ video, related, search }) {
 		: video.id.channelId
 		? video.id.channelId
 		: video.id;
+	console.log(key);
 
 	return (
 		<Link
@@ -52,7 +53,11 @@ export default function VideoCard({ video, related, search }) {
 					<div>
 						<p
 							className={` ${
-								related ? "line-clamp-1" : search ? "text-lg" : ""
+								related
+									? "line-clamp-1"
+									: search
+									? "text-lg"
+									: ""
 							}`}
 						>
 							{title}
@@ -60,12 +65,19 @@ export default function VideoCard({ video, related, search }) {
 						<div className="flex mt-4">
 							{search ? (
 								video.id.kind !== "youtube#channel" ? (
-									<ChannelIcon channelId={channelId} className="m-5" />
+									<ChannelIcon
+										channelId={channelId}
+										className="m-5"
+									/>
 								) : null
 							) : null}
 							<div className="z-0 relative">
-								<p className={`opacity-50 z-0`}>{channelTitle}</p>
-								<p className="opacity-50 z-0">{format(publishedAt)}</p>
+								<p className={`opacity-50 z-0`}>
+									{channelTitle}
+								</p>
+								<p className="opacity-50 z-0">
+									{format(publishedAt)}
+								</p>
 							</div>
 						</div>
 					</div>

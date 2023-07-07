@@ -35,6 +35,13 @@ export default function ChannelPage() {
 								video={video}
 								related={false}
 								search={false}
+								key={
+									video.id.kind
+										? video.id.kind === "youtube#video"
+											? video.id.videoId
+											: video.id.channelId
+										: video.id
+								}
 							/>
 						))}
 					</ul>
