@@ -6,6 +6,7 @@ import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 import { YoutubeProvider } from "./contexts/YoutubeContext";
 import Watch from "./components/Watch";
 import Search from "./components/Search";
+import ChannelPage from "./components/ChannelPage";
 
 const queryClient = new QueryClient();
 
@@ -25,6 +26,10 @@ const router = createBrowserRouter([
 			{
 				path: "search",
 				element: <Search />,
+			},
+			{
+				path: "watch/channel/:channelId",
+				element: <ChannelPage/>,
 			},
 		],
 	},

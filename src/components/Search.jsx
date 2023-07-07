@@ -15,7 +15,7 @@ export default function Search() {
 		if (q !== keyword) {
 			setKeyword(q);
 		}
-	}, 500);
+	}, 0);
 
 	const youtube = useYoutube();
 	const {

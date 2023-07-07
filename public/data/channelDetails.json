@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "fDXPac9EUHvQQzFRxnVZ2JOiBVg",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 7656,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rL8op0P4lfWZU7QmtJlZlXABw2o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rDUyqRp-PrY"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-02T03:00:28Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "내려가는 법을 잊은 롤러코스터🎢 [마이크 체크 Ep.3] | 2023 LCK 서머 스플릿",
+                "description": "혼돈의 LCK 3주차! 급격한 순위 변화와 극적인 경기 속으로!! ✓Time Stamp 0:00 인트로 0:04 2023 Summer 2호 펜타킬 (feat.서폿도 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rDUyqRp-PrY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rDUyqRp-PrY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rDUyqRp-PrY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-02T03:00:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J69wkiIAeu_dDyCdmeLe1U8MVJo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yYT0C7g8k1g"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-29T14:30:30Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "알고 계셨나요? 스태틱을 안 사면... | 2023 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends #Shorts ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yYT0C7g8k1g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yYT0C7g8k1g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yYT0C7g8k1g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-29T14:30:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6OTMjRvvSRtTWXTl7v9d4l6i14Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TzdtHsZ14Tg"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-01T14:00:15Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "&quot;0.8 펜타킬&quot; | 2023 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends #Shorts ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TzdtHsZ14Tg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TzdtHsZ14Tg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TzdtHsZ14Tg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-01T14:00:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "P1UcBptGRF7ccwcs7Sd-A4oahs8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EKGvLS7lpuU"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-01T02:00:07Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "&quot;플라잉 구미라&quot; | 2023 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends #Shorts ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EKGvLS7lpuU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EKGvLS7lpuU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EKGvLS7lpuU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-01T02:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MYkB0vzjmefEjuaSAKfOMjMEVB0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hbYIeZogxbM"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-16T14:00:19Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "탑모건 두두 등장 | SEASON 2023 KICKOFF",
+                "description": "LCK #WeMakeLegends □LIVE & LIVE VOD - 네이버: https://sports.news.naver.com/esports/index.nhn - 아프리카TV: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hbYIeZogxbM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hbYIeZogxbM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hbYIeZogxbM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-16T14:00:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IqbonKiiNz442rkXQAwPCe7kQxg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mt_lzsaeo-w"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-15T08:12:01Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "오프닝 타이틀 | 2022 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends #TowardsTheFuture □LIVE & LIVE VOD - 네이버: https://sports.news.naver.com/esports/index.nhn ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mt_lzsaeo-w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mt_lzsaeo-w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mt_lzsaeo-w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-06-15T08:12:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dvuwG7rTETY-JPckLqJLHtpZFsk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MFwKYY-LNdQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-07-10T12:54:15Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "문과들이 이 영상을 싫어합니다 | T1 vs. 프레딧 게임2 하이라이트 | 07.10 | 2022 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends #TowardsTheFuture □LIVE & LIVE VOD - 네이버: https://sports.news.naver.com/esports/index.nhn ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MFwKYY-LNdQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MFwKYY-LNdQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MFwKYY-LNdQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-07-10T12:54:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3SIcC30pAO58B-vtw0yFRybFDEA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5DNMp45jsJ8"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-30T11:47:02Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "구미라 떴다! | T1 vs. DK 게임1 하이라이트 | 06.30 | 2023 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5DNMp45jsJ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5DNMp45jsJ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5DNMp45jsJ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-30T11:47:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bfr0pkAZsEH0YMmw7F60Q42JQS8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aa-T3CU-MhA"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-03T12:00:03Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "&quot;티태식이 돌아왔구나&quot; | 2023 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends #Shorts ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aa-T3CU-MhA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aa-T3CU-MhA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aa-T3CU-MhA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-03T12:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nVvO-pXSk0h3W-U5yzXqG6vZSnQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oluvR7n5cfc"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-01T11:20:28Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "광동제일검 | LSB vs. KDF 게임2 하이라이트 | 07.01 | 2023 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oluvR7n5cfc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oluvR7n5cfc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oluvR7n5cfc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-01T11:20:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lD0nrcuIEindTqZZVyl5vmseu4Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vulT4de82JY"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-29T05:30:19Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "&quot;Lehends Never Die (feat. 노틸러스)&quot; | 2023 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends #Shorts ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vulT4de82JY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vulT4de82JY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vulT4de82JY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-29T05:30:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hloDz3GTeBHt0KId-qccIN__NXE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qFHsaBta5p4"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-02T11:42:10Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "Zeus 인터뷰 | NS vs. T1 | 07.02 | 2023 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qFHsaBta5p4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qFHsaBta5p4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qFHsaBta5p4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-02T11:42:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NU7AAt5-ZixysH_cw8brFwB8uTI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fgdjEI4D8kw"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-17T03:00:28Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "Owner와 Oner | 리뷰데스크 Ep.8",
+                "description": "T1 페이커·오너 선수가 직접 알려주는 MATCH78 T1 vs HLE 속 비하인드 스토리 ✓타임라인 00:00 - 오프닝 00:38 - MATCH78 T1 vs ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fgdjEI4D8kw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fgdjEI4D8kw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fgdjEI4D8kw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-17T03:00:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "y3OmODx7o6dOhsjoo7C2r0KcyEU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lC8cum4zVuA"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-15T10:14:25Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "구라치지마, 회피니까 | T1 vs. LSB 게임2 하이라이트 | 06.15 | 2023 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lC8cum4zVuA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lC8cum4zVuA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lC8cum4zVuA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-15T10:14:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yv3eTNijn5nVjaYPB1bcAjdh-2w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "He4rcVnd6yA"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-02T09:05:44Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "[결승 트래쉬토크] T1 vs. 젠지 | 2022 스프링 스플릿 결승",
+                "description": "LCK #WeMakeLegends □LIVE & LIVE VOD - 네이버: https://sports.news.naver.com/esports/index.nhn - 아프리카TV: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/He4rcVnd6yA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/He4rcVnd6yA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/He4rcVnd6yA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-02T09:05:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8qAA9sI_sCDX_kVvy1am-nUfK-U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PKQjT3vfwYA"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-03T15:00:28Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "『금빛ㅡ 섬광。』 | 2023 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends #Shorts ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PKQjT3vfwYA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PKQjT3vfwYA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PKQjT3vfwYA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-03T15:00:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hNkRDb7lQCzer7vtzUGK6EGkHx0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7AT_kobqPiU"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-17T10:48:00Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "Cu | BRO vs. T1 게임2 하이라이트 | 06.17 | 2023 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7AT_kobqPiU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7AT_kobqPiU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7AT_kobqPiU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-17T10:48:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xvSSQICZE1BnONrjj0TpB4YDoYU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "z0SnM66DLMI"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-02T10:19:12Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "최고의 속임수는 본인도 속이는 것이다 | KT vs. DRX 게임2 하이라이트 | 09.02 | 2022 LCK 대표 선발전 R2",
+                "description": "LCK #WeMakeLegends #TowardsTheFuture □LIVE & LIVE VOD - 네이버: https://sports.news.naver.com/esports/index.nhn ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z0SnM66DLMI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z0SnM66DLMI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z0SnM66DLMI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-02T10:19:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2QiRofOZYfrgnsYOT5z5l6148p8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "N19nihFLbpM"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-26T11:28:38Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "⚠️싱싱미역시청주의⚠️ | T1 vs. 광동 게임1 하이라이트 | 01.26 | 2023 LCK 스프링 스플릿",
+                "description": "LCK #WeMakeLegends □LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N19nihFLbpM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N19nihFLbpM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N19nihFLbpM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-26T11:28:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pF5WSvXMenwVbxrci6ZW_AKPyLs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "upt2kEVAt4E"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-30T12:23:23Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "암 트월킹 온 더 런웨이~ | T1 vs. DK 게임2 하이라이트 | 06.30 | 2023 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/upt2kEVAt4E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/upt2kEVAt4E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/upt2kEVAt4E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-30T12:23:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jOQGsA-g4Fn9UhGRmkxb_jSXAE0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s4rT2BqabeQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-30T09:10:27Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "아리야 왜 또 칭얼거려 | KT vs. NS 게임1 하이라이트 | 06.30 | 2023 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s4rT2BqabeQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s4rT2BqabeQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s4rT2BqabeQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-30T09:10:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "H--8PEAunVvC5vcmbnzeNz8dViM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "zgj-UvuB2j4"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-01T03:00:34Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "[Ep.2] 마! 캡틴잭 칭호가 와 생겼는지 아나! | 리:플레이",
+                "description": "타임코드 00:00 오프닝 01:48 카카오 자기소개서 02:35 카카오 롤생 매드무비 03:36 카카오 = 카직스? 04:58 마타 자기소개서 05:49 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zgj-UvuB2j4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zgj-UvuB2j4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zgj-UvuB2j4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-01T03:00:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UNNVde6dL2em362vIJNAM4_dPf0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_SRWngLnGJE"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-08T09:24:25Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "해치웠나? | KDF vs. DRX 게임1 하이라이트 | 06.08 | 2023 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_SRWngLnGJE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_SRWngLnGJE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_SRWngLnGJE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-08T09:24:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Rx9kkLloOKkhY8EUXKIertoTXvA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yRxdmvK8_-w"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-18T09:29:37Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "작은 곰렘 | DK vs. NS 게임1 하이라이트 | 06.18 | 2023 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yRxdmvK8_-w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yRxdmvK8_-w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yRxdmvK8_-w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-18T09:29:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9AFe52P2Gnl73LhUG602OMo3T7w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mSW65m3J-BE"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-17T10:23:49Z",
+                "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+                "title": "Welcome to LCK | BRO vs. T1 게임1 하이라이트 | 06.17 | 2023 LCK 서머 스플릿",
+                "description": "LCK #WeMakeLegends ✓ LIVE & LIVE VOD - LoL e스포츠 홈페이지: https://lolesports.com/ - 네이버: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mSW65m3J-BE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mSW65m3J-BE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mSW65m3J-BE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LCK",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-17T10:23:49Z"
+            }
+        }
+    ]
+}

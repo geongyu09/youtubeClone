@@ -26,7 +26,7 @@ export default function VideoCard({ video, related, search }) {
 		<Link
 			to={`/watch/${
 				video.id.kind
-					? video.id.kind === "youtube$channel"
+					? video.id.kind === "youtube#channel"
 						? `channel/${video.id.channelId}`
 						: video.id.videoId
 					: video.id

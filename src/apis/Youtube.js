@@ -23,7 +23,9 @@ export class Youtube {
 	getTrandVideos() {
 		//this.fake 불린값에 따라 각 주소로 데이터 값을 가져옮 | return : array
 		if (this.fake) {
-			return this.client.get("hotTrandData.json").then((res) => res.data.items);
+			return this.client
+				.get("hotTrandData.json")
+				.then((res) => res.data.items);
 		} else {
 			return this.client
 				.get("search", {
@@ -38,7 +40,9 @@ export class Youtube {
 		if (this.fake) {
 			return this.client
 				.get("channelDetail.json")
-				.then((res) => res.data.items[0].snippet.thumbnails.default.url);
+				.then(
+					(res) => res.data.items[0].snippet.thumbnails.default.url
+				);
 		} else {
 			let data = this.client
 				.get("channels", {
@@ -46,7 +50,9 @@ export class Youtube {
 						id,
 					},
 				})
-				.then((res) => res.data.items[0].snippet.thumbnails.default.url);
+				.then(
+					(res) => res.data.items[0].snippet.thumbnails.default.url
+				);
 			return data;
 		}
 	}
@@ -88,6 +94,22 @@ export class Youtube {
 					params: {
 						maxResults: MAXRESULT,
 						q: keyword,
+					},
+				})
+				.then((res) => res.data.items);
+		}
+	}
+	getVieosWithOwnerId(channelId) {
+		if (this.fake) {
+			return this.client
+				.get("channeldetails.json")
+				.then((res) => res.data.items);
+		} else {
+			return this.client
+				.get("/search", {
+					params: {
+						maxResults: MAXRESULT,
+						channelId,
 					},
 				})
 				.then((res) => res.data.items);
