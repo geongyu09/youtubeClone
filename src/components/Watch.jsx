@@ -30,7 +30,7 @@ export default function Watch({ search }) {
 		},
 		staleTime: 1000 * 60 * 60,
 	});
-
+	console.log(description);
 	return (
 		<>
 			{isLoading && <h1>Loading...</h1>}
@@ -52,7 +52,7 @@ export default function Watch({ search }) {
 							<ChannelIcon channelId={channelId} />
 							<h1>{channelTitle}</h1>
 						</div>
-						<pre className="bg-zinc-800 p-5 rounded-xl mt-5 w-full max-w-full whitespace-pre-wrap">
+						<pre className="bg-zinc-800 p-5 rounded-xl mt-5 w-full whitespace-pre-wrap">
 							{description}
 						</pre>
 					</article>
