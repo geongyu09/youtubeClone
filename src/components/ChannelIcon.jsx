@@ -2,7 +2,7 @@ import React from "react";
 import { useQuery } from "@tanstack/react-query";
 import { useYoutube } from "../contexts/YoutubeContext";
 
-export default function ChannelIcon({ channelId, channelPage }) {
+export default function ChannelIcon({ channelId, channelPage, search }) {
 	const youtube = useYoutube();
 	const {
 		data: icon,
@@ -27,9 +27,9 @@ export default function ChannelIcon({ channelId, channelPage }) {
 						backgroundRepeat: "no-repeat",
 						backgroundSize: "cover",
 					}}
-					className={` rounded-full mx-3 ${
+					className={` rounded-full ${
 						channelPage ? "w-40 h-40" : "w-10 h-10"
-					}`}
+					} ${search ? "mr-3 " : "mx-3"}`}
 				></div>
 			) : null}
 		</>

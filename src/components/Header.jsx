@@ -18,7 +18,13 @@ export default function Header() {
 	return (
 		<>
 			<header className="w-full flex bg-zinc-800 p-4 items-center justify-between fixed z-50">
-				<BsYoutube className="text-white text-3xl" onClick={() => nav("/")} />
+				<div
+					onClick={() => nav("/")}
+					className="flex ml-5 cursor-default"
+				>
+					<BsYoutube className="text-white text-3xl mr-5" />
+					<h1 className="text-xl">Youtube</h1>
+				</div>
 				<form className="flex w-1/3" onSubmit={onSubmit}>
 					<input
 						type="text"
@@ -28,7 +34,9 @@ export default function Header() {
 						onChange={onChange}
 						maxLength={99}
 					/>
-					<button className="px-4 py-1 bg-slate-900 rounded-r-md">🔍</button>
+					<button className="px-4 py-1 bg-slate-900 rounded-r-md">
+						🔍
+					</button>
 				</form>
 				<div></div>
 			</header>

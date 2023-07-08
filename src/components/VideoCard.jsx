@@ -67,7 +67,7 @@ export default function VideoCard({ video, related, search }) {
 								video.id.kind !== "youtube#channel" ? (
 									<ChannelIcon
 										channelId={channelId}
-										className="m-5"
+										search={true}
 									/>
 								) : null
 							) : null}
